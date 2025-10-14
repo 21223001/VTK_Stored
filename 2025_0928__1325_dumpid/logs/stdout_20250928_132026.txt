@@ -1,0 +1,2318 @@
+=============== Simulation START ===============
+Validation passed.
+[DEBUG:restore] get_Num_Boundary_Nodes: 71 nodes counted
+[DEBUG_for_restore] => Boundary node count = 71
+[DEBUG:restore] get_Num_Boundary_Nodes: 74 nodes counted
+[DEBUG_for_restore] => Boundary node count = 74
+[DEBUG:restore] get_Num_Boundary_Nodes: 60 nodes counted
+[DEBUG_for_restore] => Boundary node count = 60
+[DEBUG:restore] get_Num_Boundary_Nodes: 70 nodes counted
+[DEBUG_for_restore] => Boundary node count = 70
+Initialized with Theta_Flag: 0
+, Terminal Timeout: 600000
+maxtime is not 0.
+debug::idealLoopCounter % 10 == 0
+Timestep: 0, TF: 0
+Timestep: 0
+ TF: 0
+Calling update_Adhesion
+[DEBUG:restore] get_Num_Boundary_Nodes: 54 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 47 nodes counted
+[DEBUG_for_restore] => Boundary node count = 47
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 61 nodes counted
+[DEBUG_for_restore] => Boundary node count = 61
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 54
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 64 nodes counted
+[DEBUG_for_restore] => Boundary node count = 64
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 61 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 54 nodes counted
+[DEBUG_for_restore] => Boundary node count = 54
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 61
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 64 nodes counted
+[DEBUG_for_restore] => Boundary node count = 64
+[DEBUG:restore] get_Num_Boundary_Nodes: 47 nodes counted
+[DEBUG_for_restore] => Boundary node count = 47
+[Loop End] Current Step: 2, idealLoopCounter: 2
+Calling update_Adhesion
+[DEBUG:restore] get_Num_Boundary_Nodes: 61 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 47 nodes counted
+[DEBUG_for_restore] => Boundary node count = 47
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 54 nodes counted
+[DEBUG_for_restore] => Boundary node count = 54
+[DEBUG_for_restore] => Boundary node count = 61
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 64 nodes counted
+[DEBUG_for_restore] => Boundary node count = 64
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 47 nodes counted
+[DEBUG_for_restore] => Boundary node count = 47
+[DEBUG:restore] get_Num_Boundary_Nodes: 54 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 61 nodes counted
+[DEBUG_for_restore] => Boundary node count = 61
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 54
+[DEBUG:restore] get_Num_Boundary_Nodes: 64 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 64
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[Loop End] Current Step: 2, idealLoopCounter: 4
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 47 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 54 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 54
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 61 nodes counted
+[DEBUG_for_restore] => Boundary node count = 61
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 47
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 64 nodes counted
+[DEBUG_for_restore] => Boundary node count = 64
+[Loop End] Current Step: 2, idealLoopCounter: 6
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 61 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 47 nodes counted
+[DEBUG_for_restore] => Boundary node count = 47
+[DEBUG:restore] get_Num_Boundary_Nodes: 54 nodes counted
+[DEBUG_for_restore] => Boundary node count = 54
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 61
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 64 nodes counted
+[DEBUG_for_restore] => Boundary node count = 64
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[Loop End] Current Step: 2, idealLoopCounter: 8
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 47 nodes counted
+[DEBUG_for_restore] => Boundary node count = 47
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 54 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 61 nodes counted
+[DEBUG_for_restore] => Boundary node count = 61
+[DEBUG_for_restore] => Boundary node count = 54
+[DEBUG:restore] get_Num_Boundary_Nodes: 64 nodes counted
+[DEBUG_for_restore] => Boundary node count = 64
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[Loop End] Current Step: 2, idealLoopCounter: 10
+[DEBUG:restore] get_Num_Boundary_Nodes: 47 nodes counted
+[DEBUG_for_restore] => Boundary node count = 47
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 61 nodes counted
+[DEBUG_for_restore] => Boundary node count = 61
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 64 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 64
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 54 nodes counted
+[DEBUG_for_restore] => Boundary node count = 54
+[Loop End] Current Step: 2, idealLoopCounter: 12
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 61 nodes counted
+[DEBUG_for_restore] => Boundary node count = 61
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 64 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 54 nodes counted
+[DEBUG_for_restore] => Boundary node count = 54
+[DEBUG_for_restore] => Boundary node count = 64
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 47 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 47
+[Loop End] Current Step: 2, idealLoopCounter: 14
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 61 nodes counted
+[DEBUG_for_restore] => Boundary node count = 61
+[DEBUG:restore] get_Num_Boundary_Nodes: 54 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 47 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 64 nodes counted
+[DEBUG_for_restore] => Boundary node count = 64
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 47
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 54
+[DEBUG_for_restore] => Boundary node count = 0
+[Loop End] Current Step: 2, idealLoopCounter: 16
+[DEBUG:restore] get_Num_Boundary_Nodes: 47 nodes counted
+[DEBUG_for_restore] => Boundary node count = 47
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 54 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 54
+[DEBUG:restore] get_Num_Boundary_Nodes: 61 nodes counted
+[DEBUG_for_restore] => Boundary node count = 61
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 64 nodes counted
+[DEBUG_for_restore] => Boundary node count = 64
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[Loop End] Current Step: 2, idealLoopCounter: 18
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 61 nodes counted
+[DEBUG_for_restore] => Boundary node count = 61
+[DEBUG:restore] get_Num_Boundary_Nodes: 54 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 64 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 47 nodes counted
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 54
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 47
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG_for_restore] => Boundary node count = 64
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[DEBUG:restore] get_Num_Boundary_Nodes: 0 nodes counted
+[DEBUG_for_restore] => Boundary node count = 0
+[Loop End] Current Step: 2, idealLoopCounter: 20
+[Loop End] Current Step: 2, idealLoopCounter: 22
+[Loop End] Current Step: 2, idealLoopCounter: 24
+[Loop End] Current Step: 2, idealLoopCounter: 26
+[Loop End] Current Step: 2, idealLoopCounter: 28
+[Loop End] Current Step: 2, idealLoopCounter: 30
+[Loop End] Current Step: 2, idealLoopCounter: 32
+[Loop End] Current Step: 2, idealLoopCounter: 34
+[Loop End] Current Step: 2, idealLoopCounter: 36
+[Loop End] Current Step: 2, idealLoopCounter: 38
+[Loop End] Current Step: 2, idealLoopCounter: 40
+[Loop End] Current Step: 2, idealLoopCounter: 42
+[Loop End] Current Step: 2, idealLoopCounter: 44
+[Loop End] Current Step: 2, idealLoopCounter: 46
+[Loop End] Current Step: 2, idealLoopCounter: 48
+[Loop End] Current Step: 2, idealLoopCounter: 50
+[Loop End] Current Step: 2, idealLoopCounter: 52
+[Loop End] Current Step: 2, idealLoopCounter: 54
+[Loop End] Current Step: 2, idealLoopCounter: 56
+[Loop End] Current Step: 2, idealLoopCounter: 58
+[Loop End] Current Step: 2, idealLoopCounter: 60
+[Loop End] Current Step: 2, idealLoopCounter: 62
+[Loop End] Current Step: 2, idealLoopCounter: 64
+[Loop End] Current Step: 2, idealLoopCounter: 66
+[Loop End] Current Step: 2, idealLoopCounter: 68
+[Loop End] Current Step: 2, idealLoopCounter: 70
+[Loop End] Current Step: 2, idealLoopCounter: 72
+[Loop End] Current Step: 2, idealLoopCounter: 74
+[Loop End] Current Step: 2, idealLoopCounter: 76
+[Loop End] Current Step: 2, idealLoopCounter: 78
+[Loop End] Current Step: 2, idealLoopCounter: 80
+[Loop End] Current Step: 2, idealLoopCounter: 82
+[Loop End] Current Step: 2, idealLoopCounter: 84
+[Loop End] Current Step: 2, idealLoopCounter: 86
+[Loop End] Current Step: 2, idealLoopCounter: 88
+[Loop End] Current Step: 2, idealLoopCounter: 90
+[Loop End] Current Step: 2, idealLoopCounter: 92
+[Loop End] Current Step: 2, idealLoopCounter: 94
+[Loop End] Current Step: 2, idealLoopCounter: 96
+[Loop End] Current Step: 2, idealLoopCounter: 98
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_0050_100.dump
+[Loop End] Current Step: 2, idealLoopCounter: 100
+[Loop End] Current Step: 2, idealLoopCounter: 102
+[Loop End] Current Step: 2, idealLoopCounter: 104
+[Loop End] Current Step: 2, idealLoopCounter: 106
+[Loop End] Current Step: 2, idealLoopCounter: 108
+[Loop End] Current Step: 2, idealLoopCounter: 110
+[Loop End] Current Step: 2, idealLoopCounter: 112
+[Loop End] Current Step: 2, idealLoopCounter: 114
+[Loop End] Current Step: 2, idealLoopCounter: 116
+[Loop End] Current Step: 2, idealLoopCounter: 118
+[Loop End] Current Step: 2, idealLoopCounter: 120
+[Loop End] Current Step: 2, idealLoopCounter: 122
+[Loop End] Current Step: 2, idealLoopCounter: 124
+[Loop End] Current Step: 2, idealLoopCounter: 126
+[Loop End] Current Step: 2, idealLoopCounter: 128
+[Loop End] Current Step: 2, idealLoopCounter: 130
+[Loop End] Current Step: 2, idealLoopCounter: 132
+[Loop End] Current Step: 2, idealLoopCounter: 134
+[Loop End] Current Step: 2, idealLoopCounter: 136
+[Loop End] Current Step: 2, idealLoopCounter: 138
+[Loop End] Current Step: 2, idealLoopCounter: 140
+[Loop End] Current Step: 2, idealLoopCounter: 142
+[Loop End] Current Step: 2, idealLoopCounter: 144
+[Loop End] Current Step: 2, idealLoopCounter: 146
+[Loop End] Current Step: 2, idealLoopCounter: 148
+[Loop End] Current Step: 2, idealLoopCounter: 150
+[Loop End] Current Step: 2, idealLoopCounter: 152
+[Loop End] Current Step: 2, idealLoopCounter: 154
+[Loop End] Current Step: 2, idealLoopCounter: 156
+[Loop End] Current Step: 2, idealLoopCounter: 158
+[Loop End] Current Step: 2, idealLoopCounter: 160
+[Loop End] Current Step: 2, idealLoopCounter: 162
+[Loop End] Current Step: 2, idealLoopCounter: 164
+[Loop End] Current Step: 2, idealLoopCounter: 166
+[Loop End] Current Step: 2, idealLoopCounter: 168
+[Loop End] Current Step: 2, idealLoopCounter: 170
+[Loop End] Current Step: 2, idealLoopCounter: 172
+[Loop End] Current Step: 2, idealLoopCounter: 174
+[Loop End] Current Step: 2, idealLoopCounter: 176
+[Loop End] Current Step: 2, idealLoopCounter: 178
+[Loop End] Current Step: 2, idealLoopCounter: 180
+[Loop End] Current Step: 2, idealLoopCounter: 182
+[Loop End] Current Step: 2, idealLoopCounter: 184
+[Loop End] Current Step: 2, idealLoopCounter: 186
+[Loop End] Current Step: 2, idealLoopCounter: 188
+[Loop End] Current Step: 2, idealLoopCounter: 190
+[Loop End] Current Step: 2, idealLoopCounter: 192
+[Loop End] Current Step: 2, idealLoopCounter: 194
+[Loop End] Current Step: 2, idealLoopCounter: 196
+[Loop End] Current Step: 2, idealLoopCounter: 198
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_0100_200.dump
+[Loop End] Current Step: 2, idealLoopCounter: 200
+[Loop End] Current Step: 2, idealLoopCounter: 202
+[Loop End] Current Step: 2, idealLoopCounter: 204
+[Loop End] Current Step: 2, idealLoopCounter: 206
+[Loop End] Current Step: 2, idealLoopCounter: 208
+[Loop End] Current Step: 2, idealLoopCounter: 210
+[Loop End] Current Step: 2, idealLoopCounter: 212
+[Loop End] Current Step: 2, idealLoopCounter: 214
+[Loop End] Current Step: 2, idealLoopCounter: 216
+[Loop End] Current Step: 2, idealLoopCounter: 218
+[Loop End] Current Step: 2, idealLoopCounter: 220
+[Loop End] Current Step: 2, idealLoopCounter: 222
+[Loop End] Current Step: 2, idealLoopCounter: 224
+[Loop End] Current Step: 2, idealLoopCounter: 226
+[Loop End] Current Step: 2, idealLoopCounter: 228
+[Loop End] Current Step: 2, idealLoopCounter: 230
+[Loop End] Current Step: 2, idealLoopCounter: 232
+[Loop End] Current Step: 2, idealLoopCounter: 234
+[Loop End] Current Step: 2, idealLoopCounter: 236
+[Loop End] Current Step: 2, idealLoopCounter: 238
+[Loop End] Current Step: 2, idealLoopCounter: 240
+[Loop End] Current Step: 2, idealLoopCounter: 242
+[Loop End] Current Step: 2, idealLoopCounter: 244
+[Loop End] Current Step: 2, idealLoopCounter: 246
+[Loop End] Current Step: 2, idealLoopCounter: 248
+[Loop End] Current Step: 2, idealLoopCounter: 250
+[Loop End] Current Step: 2, idealLoopCounter: 252
+[Loop End] Current Step: 2, idealLoopCounter: 254
+[Loop End] Current Step: 2, idealLoopCounter: 256
+[Loop End] Current Step: 2, idealLoopCounter: 258
+[Loop End] Current Step: 2, idealLoopCounter: 260
+[Loop End] Current Step: 2, idealLoopCounter: 262
+[Loop End] Current Step: 2, idealLoopCounter: 264
+[Loop End] Current Step: 2, idealLoopCounter: 266
+[Loop End] Current Step: 2, idealLoopCounter: 268
+[Loop End] Current Step: 2, idealLoopCounter: 270
+[Loop End] Current Step: 2, idealLoopCounter: 272
+[Loop End] Current Step: 2, idealLoopCounter: 274
+[Loop End] Current Step: 2, idealLoopCounter: 276
+[Loop End] Current Step: 2, idealLoopCounter: 278
+[Loop End] Current Step: 2, idealLoopCounter: 280
+[Loop End] Current Step: 2, idealLoopCounter: 282
+[Loop End] Current Step: 2, idealLoopCounter: 284
+[Loop End] Current Step: 2, idealLoopCounter: 286
+[Loop End] Current Step: 2, idealLoopCounter: 288
+[Loop End] Current Step: 2, idealLoopCounter: 290
+[Loop End] Current Step: 2, idealLoopCounter: 292
+[Loop End] Current Step: 2, idealLoopCounter: 294
+[Loop End] Current Step: 2, idealLoopCounter: 296
+[Loop End] Current Step: 2, idealLoopCounter: 298
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_0150_300.dump
+[Loop End] Current Step: 2, idealLoopCounter: 300
+[Loop End] Current Step: 2, idealLoopCounter: 302
+[Loop End] Current Step: 2, idealLoopCounter: 304
+[Loop End] Current Step: 2, idealLoopCounter: 306
+[Loop End] Current Step: 2, idealLoopCounter: 308
+[Loop End] Current Step: 2, idealLoopCounter: 310
+[Loop End] Current Step: 2, idealLoopCounter: 312
+[Loop End] Current Step: 2, idealLoopCounter: 314
+[Loop End] Current Step: 2, idealLoopCounter: 316
+[Loop End] Current Step: 2, idealLoopCounter: 318
+[Loop End] Current Step: 2, idealLoopCounter: 320
+[Loop End] Current Step: 2, idealLoopCounter: 322
+[Loop End] Current Step: 2, idealLoopCounter: 324
+[Loop End] Current Step: 2, idealLoopCounter: 326
+[Loop End] Current Step: 2, idealLoopCounter: 328
+[Loop End] Current Step: 2, idealLoopCounter: 330
+[Loop End] Current Step: 2, idealLoopCounter: 332
+[Loop End] Current Step: 2, idealLoopCounter: 334
+[Loop End] Current Step: 2, idealLoopCounter: 336
+[Loop End] Current Step: 2, idealLoopCounter: 338
+[Loop End] Current Step: 2, idealLoopCounter: 340
+[Loop End] Current Step: 2, idealLoopCounter: 342
+[Loop End] Current Step: 2, idealLoopCounter: 344
+[Loop End] Current Step: 2, idealLoopCounter: 346
+[Loop End] Current Step: 2, idealLoopCounter: 348
+[Loop End] Current Step: 2, idealLoopCounter: 350
+[Loop End] Current Step: 2, idealLoopCounter: 352
+[Loop End] Current Step: 2, idealLoopCounter: 354
+[Loop End] Current Step: 2, idealLoopCounter: 356
+[Loop End] Current Step: 2, idealLoopCounter: 358
+[Loop End] Current Step: 2, idealLoopCounter: 360
+[Loop End] Current Step: 2, idealLoopCounter: 362
+[Loop End] Current Step: 2, idealLoopCounter: 364
+[Loop End] Current Step: 2, idealLoopCounter: 366
+[Loop End] Current Step: 2, idealLoopCounter: 368
+[Loop End] Current Step: 2, idealLoopCounter: 370
+[Loop End] Current Step: 2, idealLoopCounter: 372
+[Loop End] Current Step: 2, idealLoopCounter: 374
+[Loop End] Current Step: 2, idealLoopCounter: 376
+[Loop End] Current Step: 2, idealLoopCounter: 378
+[Loop End] Current Step: 2, idealLoopCounter: 380
+[Loop End] Current Step: 2, idealLoopCounter: 382
+[Loop End] Current Step: 2, idealLoopCounter: 384
+[Loop End] Current Step: 2, idealLoopCounter: 386
+[Loop End] Current Step: 2, idealLoopCounter: 388
+[Loop End] Current Step: 2, idealLoopCounter: 390
+[Loop End] Current Step: 2, idealLoopCounter: 392
+[Loop End] Current Step: 2, idealLoopCounter: 394
+[Loop End] Current Step: 2, idealLoopCounter: 396
+[Loop End] Current Step: 2, idealLoopCounter: 398
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_0200_400.dump
+[Loop End] Current Step: 2, idealLoopCounter: 400
+[Loop End] Current Step: 2, idealLoopCounter: 402
+[Loop End] Current Step: 2, idealLoopCounter: 404
+[Loop End] Current Step: 2, idealLoopCounter: 406
+[Loop End] Current Step: 2, idealLoopCounter: 408
+[Loop End] Current Step: 2, idealLoopCounter: 410
+[Loop End] Current Step: 2, idealLoopCounter: 412
+[Loop End] Current Step: 2, idealLoopCounter: 414
+[Loop End] Current Step: 2, idealLoopCounter: 416
+[Loop End] Current Step: 2, idealLoopCounter: 418
+[Loop End] Current Step: 2, idealLoopCounter: 420
+[Loop End] Current Step: 2, idealLoopCounter: 422
+[Loop End] Current Step: 2, idealLoopCounter: 424
+[Loop End] Current Step: 2, idealLoopCounter: 426
+[Loop End] Current Step: 2, idealLoopCounter: 428
+[Loop End] Current Step: 2, idealLoopCounter: 430
+[Loop End] Current Step: 2, idealLoopCounter: 432
+[Loop End] Current Step: 2, idealLoopCounter: 434
+[Loop End] Current Step: 2, idealLoopCounter: 436
+[Loop End] Current Step: 2, idealLoopCounter: 438
+[Loop End] Current Step: 2, idealLoopCounter: 440
+[Loop End] Current Step: 2, idealLoopCounter: 442
+[Loop End] Current Step: 2, idealLoopCounter: 444
+[Loop End] Current Step: 2, idealLoopCounter: 446
+[Loop End] Current Step: 2, idealLoopCounter: 448
+[Loop End] Current Step: 2, idealLoopCounter: 450
+[Loop End] Current Step: 2, idealLoopCounter: 452
+[Loop End] Current Step: 2, idealLoopCounter: 454
+[Loop End] Current Step: 2, idealLoopCounter: 456
+[Loop End] Current Step: 2, idealLoopCounter: 458
+[Loop End] Current Step: 2, idealLoopCounter: 460
+[Loop End] Current Step: 2, idealLoopCounter: 462
+[Loop End] Current Step: 2, idealLoopCounter: 464
+[Loop End] Current Step: 2, idealLoopCounter: 466
+[Loop End] Current Step: 2, idealLoopCounter: 468
+[Loop End] Current Step: 2, idealLoopCounter: 470
+[Loop End] Current Step: 2, idealLoopCounter: 472
+[Loop End] Current Step: 2, idealLoopCounter: 474
+[Loop End] Current Step: 2, idealLoopCounter: 476
+[Loop End] Current Step: 2, idealLoopCounter: 478
+[Loop End] Current Step: 2, idealLoopCounter: 480
+[Loop End] Current Step: 2, idealLoopCounter: 482
+[Loop End] Current Step: 2, idealLoopCounter: 484
+[Loop End] Current Step: 2, idealLoopCounter: 486
+[Loop End] Current Step: 2, idealLoopCounter: 488
+[Loop End] Current Step: 2, idealLoopCounter: 490
+[Loop End] Current Step: 2, idealLoopCounter: 492
+[Loop End] Current Step: 2, idealLoopCounter: 494
+[Loop End] Current Step: 2, idealLoopCounter: 496
+[Loop End] Current Step: 2, idealLoopCounter: 498
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_0250_500.dump
+[Loop End] Current Step: 2, idealLoopCounter: 500
+[Loop End] Current Step: 2, idealLoopCounter: 502
+[Loop End] Current Step: 2, idealLoopCounter: 504
+[Loop End] Current Step: 2, idealLoopCounter: 506
+[Loop End] Current Step: 2, idealLoopCounter: 508
+[Loop End] Current Step: 2, idealLoopCounter: 510
+[Loop End] Current Step: 2, idealLoopCounter: 512
+[Loop End] Current Step: 2, idealLoopCounter: 514
+[Loop End] Current Step: 2, idealLoopCounter: 516
+[Loop End] Current Step: 2, idealLoopCounter: 518
+[Loop End] Current Step: 2, idealLoopCounter: 520
+[Loop End] Current Step: 2, idealLoopCounter: 522
+[Loop End] Current Step: 2, idealLoopCounter: 524
+[Loop End] Current Step: 2, idealLoopCounter: 526
+[Loop End] Current Step: 2, idealLoopCounter: 528
+[Loop End] Current Step: 2, idealLoopCounter: 530
+[Loop End] Current Step: 2, idealLoopCounter: 532
+[Loop End] Current Step: 2, idealLoopCounter: 534
+[Loop End] Current Step: 2, idealLoopCounter: 536
+[Loop End] Current Step: 2, idealLoopCounter: 538
+[Loop End] Current Step: 2, idealLoopCounter: 540
+[Loop End] Current Step: 2, idealLoopCounter: 542
+[Loop End] Current Step: 2, idealLoopCounter: 544
+[Loop End] Current Step: 2, idealLoopCounter: 546
+[Loop End] Current Step: 2, idealLoopCounter: 548
+[Loop End] Current Step: 2, idealLoopCounter: 550
+[Loop End] Current Step: 2, idealLoopCounter: 552
+[Loop End] Current Step: 2, idealLoopCounter: 554
+[Loop End] Current Step: 2, idealLoopCounter: 556
+[Loop End] Current Step: 2, idealLoopCounter: 558
+[Loop End] Current Step: 2, idealLoopCounter: 560
+[Loop End] Current Step: 2, idealLoopCounter: 562
+[Loop End] Current Step: 2, idealLoopCounter: 564
+[Loop End] Current Step: 2, idealLoopCounter: 566
+[Loop End] Current Step: 2, idealLoopCounter: 568
+[Loop End] Current Step: 2, idealLoopCounter: 570
+[Loop End] Current Step: 2, idealLoopCounter: 572
+[Loop End] Current Step: 2, idealLoopCounter: 574
+[Loop End] Current Step: 2, idealLoopCounter: 576
+[Loop End] Current Step: 2, idealLoopCounter: 578
+[Loop End] Current Step: 2, idealLoopCounter: 580
+[Loop End] Current Step: 2, idealLoopCounter: 582
+[Loop End] Current Step: 2, idealLoopCounter: 584
+[Loop End] Current Step: 2, idealLoopCounter: 586
+[Loop End] Current Step: 2, idealLoopCounter: 588
+[Loop End] Current Step: 2, idealLoopCounter: 590
+[Loop End] Current Step: 2, idealLoopCounter: 592
+[Loop End] Current Step: 2, idealLoopCounter: 594
+[Loop End] Current Step: 2, idealLoopCounter: 596
+[Loop End] Current Step: 2, idealLoopCounter: 598
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_0300_600.dump
+[Loop End] Current Step: 2, idealLoopCounter: 600
+[Loop End] Current Step: 2, idealLoopCounter: 602
+[Loop End] Current Step: 2, idealLoopCounter: 604
+[Loop End] Current Step: 2, idealLoopCounter: 606
+[Loop End] Current Step: 2, idealLoopCounter: 608
+[Loop End] Current Step: 2, idealLoopCounter: 610
+[Loop End] Current Step: 2, idealLoopCounter: 612
+[Loop End] Current Step: 2, idealLoopCounter: 614
+[Loop End] Current Step: 2, idealLoopCounter: 616
+[Loop End] Current Step: 2, idealLoopCounter: 618
+[Loop End] Current Step: 2, idealLoopCounter: 620
+[Loop End] Current Step: 2, idealLoopCounter: 622
+[Loop End] Current Step: 2, idealLoopCounter: 624
+[Loop End] Current Step: 2, idealLoopCounter: 626
+[Loop End] Current Step: 2, idealLoopCounter: 628
+[Loop End] Current Step: 2, idealLoopCounter: 630
+[Loop End] Current Step: 2, idealLoopCounter: 632
+[Loop End] Current Step: 2, idealLoopCounter: 634
+[Loop End] Current Step: 2, idealLoopCounter: 636
+[Loop End] Current Step: 2, idealLoopCounter: 638
+[Loop End] Current Step: 2, idealLoopCounter: 640
+[Loop End] Current Step: 2, idealLoopCounter: 642
+[Loop End] Current Step: 2, idealLoopCounter: 644
+[Loop End] Current Step: 2, idealLoopCounter: 646
+[Loop End] Current Step: 2, idealLoopCounter: 648
+[Loop End] Current Step: 2, idealLoopCounter: 650
+[Loop End] Current Step: 2, idealLoopCounter: 652
+[Loop End] Current Step: 2, idealLoopCounter: 654
+[Loop End] Current Step: 2, idealLoopCounter: 656
+[Loop End] Current Step: 2, idealLoopCounter: 658
+[Loop End] Current Step: 2, idealLoopCounter: 660
+[Loop End] Current Step: 2, idealLoopCounter: 662
+[Loop End] Current Step: 2, idealLoopCounter: 664
+[Loop End] Current Step: 2, idealLoopCounter: 666
+[Loop End] Current Step: 2, idealLoopCounter: 668
+[Loop End] Current Step: 2, idealLoopCounter: 670
+[Loop End] Current Step: 2, idealLoopCounter: 672
+[Loop End] Current Step: 2, idealLoopCounter: 674
+[Loop End] Current Step: 2, idealLoopCounter: 676
+[Loop End] Current Step: 2, idealLoopCounter: 678
+[Loop End] Current Step: 2, idealLoopCounter: 680
+[Loop End] Current Step: 2, idealLoopCounter: 682
+[Loop End] Current Step: 2, idealLoopCounter: 684
+[Loop End] Current Step: 2, idealLoopCounter: 686
+[Loop End] Current Step: 2, idealLoopCounter: 688
+[Loop End] Current Step: 2, idealLoopCounter: 690
+[Loop End] Current Step: 2, idealLoopCounter: 692
+[Loop End] Current Step: 2, idealLoopCounter: 694
+[Loop End] Current Step: 2, idealLoopCounter: 696
+[Loop End] Current Step: 2, idealLoopCounter: 698
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_0350_700.dump
+[Loop End] Current Step: 2, idealLoopCounter: 700
+[Loop End] Current Step: 2, idealLoopCounter: 702
+[Loop End] Current Step: 2, idealLoopCounter: 704
+[Loop End] Current Step: 2, idealLoopCounter: 706
+[Loop End] Current Step: 2, idealLoopCounter: 708
+[Loop End] Current Step: 2, idealLoopCounter: 710
+[Loop End] Current Step: 2, idealLoopCounter: 712
+[Loop End] Current Step: 2, idealLoopCounter: 714
+[Loop End] Current Step: 2, idealLoopCounter: 716
+[Loop End] Current Step: 2, idealLoopCounter: 718
+[Loop End] Current Step: 2, idealLoopCounter: 720
+[Loop End] Current Step: 2, idealLoopCounter: 722
+[Loop End] Current Step: 2, idealLoopCounter: 724
+[Loop End] Current Step: 2, idealLoopCounter: 726
+[Loop End] Current Step: 2, idealLoopCounter: 728
+[Loop End] Current Step: 2, idealLoopCounter: 730
+[Loop End] Current Step: 2, idealLoopCounter: 732
+[Loop End] Current Step: 2, idealLoopCounter: 734
+[Loop End] Current Step: 2, idealLoopCounter: 736
+[Loop End] Current Step: 2, idealLoopCounter: 738
+[Loop End] Current Step: 2, idealLoopCounter: 740
+[Loop End] Current Step: 2, idealLoopCounter: 742
+[Loop End] Current Step: 2, idealLoopCounter: 744
+[Loop End] Current Step: 2, idealLoopCounter: 746
+[Loop End] Current Step: 2, idealLoopCounter: 748
+[Loop End] Current Step: 2, idealLoopCounter: 750
+[Loop End] Current Step: 2, idealLoopCounter: 752
+[Loop End] Current Step: 2, idealLoopCounter: 754
+[Loop End] Current Step: 2, idealLoopCounter: 756
+[Loop End] Current Step: 2, idealLoopCounter: 758
+[Loop End] Current Step: 2, idealLoopCounter: 760
+[Loop End] Current Step: 2, idealLoopCounter: 762
+[Loop End] Current Step: 2, idealLoopCounter: 764
+[Loop End] Current Step: 2, idealLoopCounter: 766
+[Loop End] Current Step: 2, idealLoopCounter: 768
+[Loop End] Current Step: 2, idealLoopCounter: 770
+[Loop End] Current Step: 2, idealLoopCounter: 772
+[Loop End] Current Step: 2, idealLoopCounter: 774
+[Loop End] Current Step: 2, idealLoopCounter: 776
+[Loop End] Current Step: 2, idealLoopCounter: 778
+[Loop End] Current Step: 2, idealLoopCounter: 780
+[Loop End] Current Step: 2, idealLoopCounter: 782
+[Loop End] Current Step: 2, idealLoopCounter: 784
+[Loop End] Current Step: 2, idealLoopCounter: 786
+[Loop End] Current Step: 2, idealLoopCounter: 788
+[Loop End] Current Step: 2, idealLoopCounter: 790
+[Loop End] Current Step: 2, idealLoopCounter: 792
+[Loop End] Current Step: 2, idealLoopCounter: 794
+[Loop End] Current Step: 2, idealLoopCounter: 796
+[Loop End] Current Step: 2, idealLoopCounter: 798
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_0400_800.dump
+[Loop End] Current Step: 2, idealLoopCounter: 800
+[Loop End] Current Step: 2, idealLoopCounter: 802
+[Loop End] Current Step: 2, idealLoopCounter: 804
+[Loop End] Current Step: 2, idealLoopCounter: 806
+[Loop End] Current Step: 2, idealLoopCounter: 808
+[Loop End] Current Step: 2, idealLoopCounter: 810
+[Loop End] Current Step: 2, idealLoopCounter: 812
+[Loop End] Current Step: 2, idealLoopCounter: 814
+[Loop End] Current Step: 2, idealLoopCounter: 816
+[Loop End] Current Step: 2, idealLoopCounter: 818
+[Loop End] Current Step: 2, idealLoopCounter: 820
+[Loop End] Current Step: 2, idealLoopCounter: 822
+[Loop End] Current Step: 2, idealLoopCounter: 824
+[Loop End] Current Step: 2, idealLoopCounter: 826
+[Loop End] Current Step: 2, idealLoopCounter: 828
+[Loop End] Current Step: 2, idealLoopCounter: 830
+[Loop End] Current Step: 2, idealLoopCounter: 832
+[Loop End] Current Step: 2, idealLoopCounter: 834
+[Loop End] Current Step: 2, idealLoopCounter: 836
+[Loop End] Current Step: 2, idealLoopCounter: 838
+[Loop End] Current Step: 2, idealLoopCounter: 840
+[Loop End] Current Step: 2, idealLoopCounter: 842
+[Loop End] Current Step: 2, idealLoopCounter: 844
+[Loop End] Current Step: 2, idealLoopCounter: 846
+[Loop End] Current Step: 2, idealLoopCounter: 848
+[Loop End] Current Step: 2, idealLoopCounter: 850
+[Loop End] Current Step: 2, idealLoopCounter: 852
+[Loop End] Current Step: 2, idealLoopCounter: 854
+[Loop End] Current Step: 2, idealLoopCounter: 856
+[Loop End] Current Step: 2, idealLoopCounter: 858
+[Loop End] Current Step: 2, idealLoopCounter: 860
+[Loop End] Current Step: 2, idealLoopCounter: 862
+[Loop End] Current Step: 2, idealLoopCounter: 864
+[Loop End] Current Step: 2, idealLoopCounter: 866
+[Loop End] Current Step: 2, idealLoopCounter: 868
+[Loop End] Current Step: 2, idealLoopCounter: 870
+[Loop End] Current Step: 2, idealLoopCounter: 872
+[Loop End] Current Step: 2, idealLoopCounter: 874
+[Loop End] Current Step: 2, idealLoopCounter: 876
+[Loop End] Current Step: 2, idealLoopCounter: 878
+[Loop End] Current Step: 2, idealLoopCounter: 880
+[Loop End] Current Step: 2, idealLoopCounter: 882
+[Loop End] Current Step: 2, idealLoopCounter: 884
+[Loop End] Current Step: 2, idealLoopCounter: 886
+[Loop End] Current Step: 2, idealLoopCounter: 888
+[Loop End] Current Step: 2, idealLoopCounter: 890
+[Loop End] Current Step: 2, idealLoopCounter: 892
+[Loop End] Current Step: 2, idealLoopCounter: 894
+[Loop End] Current Step: 2, idealLoopCounter: 896
+[Loop End] Current Step: 2, idealLoopCounter: 898
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_0450_900.dump
+[Loop End] Current Step: 2, idealLoopCounter: 900
+[Loop End] Current Step: 2, idealLoopCounter: 902
+[Loop End] Current Step: 2, idealLoopCounter: 904
+[Loop End] Current Step: 2, idealLoopCounter: 906
+[Loop End] Current Step: 2, idealLoopCounter: 908
+[Loop End] Current Step: 2, idealLoopCounter: 910
+[Loop End] Current Step: 2, idealLoopCounter: 912
+[Loop End] Current Step: 2, idealLoopCounter: 914
+[Loop End] Current Step: 2, idealLoopCounter: 916
+[Loop End] Current Step: 2, idealLoopCounter: 918
+[Loop End] Current Step: 2, idealLoopCounter: 920
+[Loop End] Current Step: 2, idealLoopCounter: 922
+[Loop End] Current Step: 2, idealLoopCounter: 924
+[Loop End] Current Step: 2, idealLoopCounter: 926
+[Loop End] Current Step: 2, idealLoopCounter: 928
+[Loop End] Current Step: 2, idealLoopCounter: 930
+[Loop End] Current Step: 2, idealLoopCounter: 932
+[Loop End] Current Step: 2, idealLoopCounter: 934
+[Loop End] Current Step: 2, idealLoopCounter: 936
+[Loop End] Current Step: 2, idealLoopCounter: 938
+[Loop End] Current Step: 2, idealLoopCounter: 940
+[Loop End] Current Step: 2, idealLoopCounter: 942
+[Loop End] Current Step: 2, idealLoopCounter: 944
+[Loop End] Current Step: 2, idealLoopCounter: 946
+[Loop End] Current Step: 2, idealLoopCounter: 948
+[Loop End] Current Step: 2, idealLoopCounter: 950
+[Loop End] Current Step: 2, idealLoopCounter: 952
+[Loop End] Current Step: 2, idealLoopCounter: 954
+[Loop End] Current Step: 2, idealLoopCounter: 956
+[Loop End] Current Step: 2, idealLoopCounter: 958
+[Loop End] Current Step: 2, idealLoopCounter: 960
+[Loop End] Current Step: 2, idealLoopCounter: 962
+[Loop End] Current Step: 2, idealLoopCounter: 964
+[Loop End] Current Step: 2, idealLoopCounter: 966
+[Loop End] Current Step: 2, idealLoopCounter: 968
+[Loop End] Current Step: 2, idealLoopCounter: 970
+[Loop End] Current Step: 2, idealLoopCounter: 972
+[Loop End] Current Step: 2, idealLoopCounter: 974
+[Loop End] Current Step: 2, idealLoopCounter: 976
+[Loop End] Current Step: 2, idealLoopCounter: 978
+[Loop End] Current Step: 2, idealLoopCounter: 980
+[Loop End] Current Step: 1, idealLoopCounter: 981
+[Loop End] Current Step: 1, idealLoopCounter: 982
+[Loop End] Current Step: 1, idealLoopCounter: 983
+[Loop End] Current Step: 1, idealLoopCounter: 984
+[Loop End] Current Step: 1, idealLoopCounter: 985
+[Loop End] Current Step: 1, idealLoopCounter: 986
+[Loop End] Current Step: 1, idealLoopCounter: 987
+[Loop End] Current Step: 1, idealLoopCounter: 988
+[Loop End] Current Step: 1, idealLoopCounter: 989
+[Loop End] Current Step: 1, idealLoopCounter: 990
+[Loop End] Current Step: 1, idealLoopCounter: 991
+[Loop End] Current Step: 1, idealLoopCounter: 992
+[Loop End] Current Step: 1, idealLoopCounter: 993
+[Loop End] Current Step: 1, idealLoopCounter: 994
+[Loop End] Current Step: 1, idealLoopCounter: 995
+[Loop End] Current Step: 1, idealLoopCounter: 996
+[Loop End] Current Step: 1, idealLoopCounter: 997
+[Loop End] Current Step: 1, idealLoopCounter: 998
+[Loop End] Current Step: 1, idealLoopCounter: 999
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_0510_1000.dump
+[Clipper] Periodic detect_gaps_via_clipper() at step 1000
+[Clipper] Final polygon count: 48
+[Clipper] Detected holes: 49
+Hole #45 area=7.13924 um^2 -> Processed (attachment)
+[Clipper] Selection type=2 mode=1 value=4 => start=498, end=502 (total=1001)
+    [Attach] Distance=2.44959 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=2.44785 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=2.44629 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=2.44339 | HOLE_MIN_CELLS=4, actual unique_cells=4
+Hole #46 area=7.62844 um^2 -> Processed (attachment)
+[Clipper] Selection type=2 mode=1 value=4 => start=459, end=463 (total=923)
+    [Attach] Distance=2.64527 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=2.64439 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=2.64074 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=2.63758 | HOLE_MIN_CELLS=4, actual unique_cells=4
+Hole #47 area=6.05939 um^2 -> Processed (attachment)
+[Clipper] Selection type=2 mode=1 value=4 => start=363, end=367 (total=731)
+    [Attach] Distance=2.32588 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=2.32396 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=2.32261 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=2.32169 | HOLE_MIN_CELLS=4, actual unique_cells=4
+Hole #48 area=5.55873 um^2 -> Processed (attachment)
+[Clipper] Selection type=2 mode=1 value=4 => start=356, end=360 (total=717)
+    [Attach] Distance=2.27484 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=2.27276 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=2.26672 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=2.26672 | HOLE_MIN_CELLS=4, actual unique_cells=4
+[Clipper] Total new attachments: 16
+[Loop End] Current Step: 1, idealLoopCounter: 1000
+debug::idealLoopCounter % 10 == 0
+Timestep: 1000, TF: 0
+Timestep: 1000
+ TF: 0
+Calling update_Adhesion
+[Loop End] Current Step: 2, idealLoopCounter: 1002
+[Loop End] Current Step: 2, idealLoopCounter: 1004
+[Loop End] Current Step: 2, idealLoopCounter: 1006
+[Loop End] Current Step: 2, idealLoopCounter: 1008
+[Loop End] Current Step: 2, idealLoopCounter: 1010
+[Loop End] Current Step: 2, idealLoopCounter: 1012
+[Loop End] Current Step: 2, idealLoopCounter: 1014
+[Loop End] Current Step: 2, idealLoopCounter: 1016
+[Loop End] Current Step: 2, idealLoopCounter: 1018
+[Loop End] Current Step: 2, idealLoopCounter: 1020
+[Loop End] Current Step: 2, idealLoopCounter: 1022
+[Loop End] Current Step: 2, idealLoopCounter: 1024
+[Loop End] Current Step: 2, idealLoopCounter: 1026
+[Loop End] Current Step: 2, idealLoopCounter: 1028
+[Loop End] Current Step: 2, idealLoopCounter: 1030
+[Loop End] Current Step: 2, idealLoopCounter: 1032
+[Loop End] Current Step: 2, idealLoopCounter: 1034
+[Loop End] Current Step: 2, idealLoopCounter: 1036
+[Loop End] Current Step: 2, idealLoopCounter: 1038
+[Loop End] Current Step: 2, idealLoopCounter: 1040
+[Loop End] Current Step: 2, idealLoopCounter: 1042
+[Loop End] Current Step: 2, idealLoopCounter: 1044
+[Loop End] Current Step: 2, idealLoopCounter: 1046
+[Loop End] Current Step: 2, idealLoopCounter: 1048
+[Loop End] Current Step: 2, idealLoopCounter: 1050
+[Loop End] Current Step: 2, idealLoopCounter: 1052
+[Loop End] Current Step: 2, idealLoopCounter: 1054
+[Loop End] Current Step: 2, idealLoopCounter: 1056
+[Loop End] Current Step: 2, idealLoopCounter: 1058
+[Loop End] Current Step: 2, idealLoopCounter: 1060
+[Loop End] Current Step: 2, idealLoopCounter: 1062
+[Loop End] Current Step: 2, idealLoopCounter: 1064
+[Loop End] Current Step: 2, idealLoopCounter: 1066
+[Loop End] Current Step: 2, idealLoopCounter: 1068
+[Loop End] Current Step: 2, idealLoopCounter: 1070
+[Loop End] Current Step: 2, idealLoopCounter: 1072
+[Loop End] Current Step: 2, idealLoopCounter: 1074
+[Loop End] Current Step: 2, idealLoopCounter: 1076
+[Loop End] Current Step: 2, idealLoopCounter: 1078
+[Loop End] Current Step: 2, idealLoopCounter: 1080
+[Loop End] Current Step: 2, idealLoopCounter: 1082
+[Loop End] Current Step: 2, idealLoopCounter: 1084
+[Loop End] Current Step: 2, idealLoopCounter: 1086
+[Loop End] Current Step: 2, idealLoopCounter: 1088
+[Loop End] Current Step: 2, idealLoopCounter: 1090
+[Loop End] Current Step: 2, idealLoopCounter: 1092
+[Loop End] Current Step: 2, idealLoopCounter: 1094
+[Loop End] Current Step: 2, idealLoopCounter: 1096
+[Loop End] Current Step: 2, idealLoopCounter: 1098
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_0560_1100.dump
+[Loop End] Current Step: 2, idealLoopCounter: 1100
+[Loop End] Current Step: 2, idealLoopCounter: 1102
+[Loop End] Current Step: 2, idealLoopCounter: 1104
+[Loop End] Current Step: 2, idealLoopCounter: 1106
+[Loop End] Current Step: 2, idealLoopCounter: 1108
+[Loop End] Current Step: 2, idealLoopCounter: 1110
+[Loop End] Current Step: 2, idealLoopCounter: 1112
+[Loop End] Current Step: 2, idealLoopCounter: 1114
+[Loop End] Current Step: 2, idealLoopCounter: 1116
+[Loop End] Current Step: 2, idealLoopCounter: 1118
+[Loop End] Current Step: 2, idealLoopCounter: 1120
+[Loop End] Current Step: 2, idealLoopCounter: 1122
+[Loop End] Current Step: 2, idealLoopCounter: 1124
+[Loop End] Current Step: 2, idealLoopCounter: 1126
+[Loop End] Current Step: 2, idealLoopCounter: 1128
+[Loop End] Current Step: 2, idealLoopCounter: 1130
+[Loop End] Current Step: 2, idealLoopCounter: 1132
+[Loop End] Current Step: 2, idealLoopCounter: 1134
+[Loop End] Current Step: 2, idealLoopCounter: 1136
+[Loop End] Current Step: 2, idealLoopCounter: 1138
+[Loop End] Current Step: 2, idealLoopCounter: 1140
+[Loop End] Current Step: 2, idealLoopCounter: 1142
+[Loop End] Current Step: 2, idealLoopCounter: 1144
+[Loop End] Current Step: 2, idealLoopCounter: 1146
+[Loop End] Current Step: 2, idealLoopCounter: 1148
+[Loop End] Current Step: 2, idealLoopCounter: 1150
+[Loop End] Current Step: 2, idealLoopCounter: 1152
+[Loop End] Current Step: 2, idealLoopCounter: 1154
+[Loop End] Current Step: 2, idealLoopCounter: 1156
+[Loop End] Current Step: 2, idealLoopCounter: 1158
+[Loop End] Current Step: 2, idealLoopCounter: 1160
+[Loop End] Current Step: 2, idealLoopCounter: 1162
+[Loop End] Current Step: 2, idealLoopCounter: 1164
+[Loop End] Current Step: 2, idealLoopCounter: 1166
+[Loop End] Current Step: 2, idealLoopCounter: 1168
+[Loop End] Current Step: 2, idealLoopCounter: 1170
+[Loop End] Current Step: 2, idealLoopCounter: 1172
+[Loop End] Current Step: 2, idealLoopCounter: 1174
+[Loop End] Current Step: 2, idealLoopCounter: 1176
+[Loop End] Current Step: 2, idealLoopCounter: 1178
+[Loop End] Current Step: 2, idealLoopCounter: 1180
+[Loop End] Current Step: 2, idealLoopCounter: 1182
+[Loop End] Current Step: 2, idealLoopCounter: 1184
+[Loop End] Current Step: 2, idealLoopCounter: 1186
+[Loop End] Current Step: 2, idealLoopCounter: 1188
+[Loop End] Current Step: 2, idealLoopCounter: 1190
+[Loop End] Current Step: 2, idealLoopCounter: 1192
+[Loop End] Current Step: 2, idealLoopCounter: 1194
+[Loop End] Current Step: 2, idealLoopCounter: 1196
+[Loop End] Current Step: 2, idealLoopCounter: 1198
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_0610_1200.dump
+[Loop End] Current Step: 2, idealLoopCounter: 1200
+[Loop End] Current Step: 2, idealLoopCounter: 1202
+[Loop End] Current Step: 2, idealLoopCounter: 1204
+[Loop End] Current Step: 2, idealLoopCounter: 1206
+[Loop End] Current Step: 2, idealLoopCounter: 1208
+[Loop End] Current Step: 2, idealLoopCounter: 1210
+[Loop End] Current Step: 2, idealLoopCounter: 1212
+[Loop End] Current Step: 2, idealLoopCounter: 1214
+[Loop End] Current Step: 2, idealLoopCounter: 1216
+[Loop End] Current Step: 2, idealLoopCounter: 1218
+[Loop End] Current Step: 2, idealLoopCounter: 1220
+[Loop End] Current Step: 2, idealLoopCounter: 1222
+[Loop End] Current Step: 2, idealLoopCounter: 1224
+[Loop End] Current Step: 2, idealLoopCounter: 1226
+[Loop End] Current Step: 2, idealLoopCounter: 1228
+[Loop End] Current Step: 2, idealLoopCounter: 1230
+[Loop End] Current Step: 2, idealLoopCounter: 1232
+[Loop End] Current Step: 2, idealLoopCounter: 1234
+[Loop End] Current Step: 2, idealLoopCounter: 1236
+[Loop End] Current Step: 2, idealLoopCounter: 1238
+[Loop End] Current Step: 2, idealLoopCounter: 1240
+[Loop End] Current Step: 2, idealLoopCounter: 1242
+[Loop End] Current Step: 2, idealLoopCounter: 1244
+[Loop End] Current Step: 2, idealLoopCounter: 1246
+[Loop End] Current Step: 2, idealLoopCounter: 1248
+[Loop End] Current Step: 2, idealLoopCounter: 1250
+[Loop End] Current Step: 2, idealLoopCounter: 1252
+[Loop End] Current Step: 2, idealLoopCounter: 1254
+[Loop End] Current Step: 2, idealLoopCounter: 1256
+[Loop End] Current Step: 2, idealLoopCounter: 1258
+[Loop End] Current Step: 2, idealLoopCounter: 1260
+[Loop End] Current Step: 2, idealLoopCounter: 1262
+[Loop End] Current Step: 2, idealLoopCounter: 1264
+[Loop End] Current Step: 2, idealLoopCounter: 1266
+[Loop End] Current Step: 2, idealLoopCounter: 1268
+[Loop End] Current Step: 2, idealLoopCounter: 1270
+[Loop End] Current Step: 2, idealLoopCounter: 1272
+[Loop End] Current Step: 2, idealLoopCounter: 1274
+[Loop End] Current Step: 2, idealLoopCounter: 1276
+[Loop End] Current Step: 2, idealLoopCounter: 1278
+[Loop End] Current Step: 2, idealLoopCounter: 1280
+[Loop End] Current Step: 2, idealLoopCounter: 1282
+[Loop End] Current Step: 2, idealLoopCounter: 1284
+[Loop End] Current Step: 2, idealLoopCounter: 1286
+[Loop End] Current Step: 2, idealLoopCounter: 1288
+[Loop End] Current Step: 2, idealLoopCounter: 1290
+[Loop End] Current Step: 2, idealLoopCounter: 1292
+[Loop End] Current Step: 2, idealLoopCounter: 1294
+[Loop End] Current Step: 2, idealLoopCounter: 1296
+[Loop End] Current Step: 2, idealLoopCounter: 1298
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_0660_1300.dump
+[Loop End] Current Step: 2, idealLoopCounter: 1300
+[Loop End] Current Step: 2, idealLoopCounter: 1302
+[Loop End] Current Step: 2, idealLoopCounter: 1304
+[Loop End] Current Step: 2, idealLoopCounter: 1306
+[Loop End] Current Step: 2, idealLoopCounter: 1308
+[Loop End] Current Step: 2, idealLoopCounter: 1310
+[Loop End] Current Step: 2, idealLoopCounter: 1312
+[Loop End] Current Step: 2, idealLoopCounter: 1314
+[Loop End] Current Step: 2, idealLoopCounter: 1316
+[Loop End] Current Step: 2, idealLoopCounter: 1318
+[Loop End] Current Step: 2, idealLoopCounter: 1320
+[Loop End] Current Step: 2, idealLoopCounter: 1322
+[Loop End] Current Step: 2, idealLoopCounter: 1324
+[Loop End] Current Step: 2, idealLoopCounter: 1326
+[Loop End] Current Step: 2, idealLoopCounter: 1328
+[Loop End] Current Step: 2, idealLoopCounter: 1330
+[Loop End] Current Step: 2, idealLoopCounter: 1332
+[Loop End] Current Step: 2, idealLoopCounter: 1334
+[Loop End] Current Step: 2, idealLoopCounter: 1336
+[Loop End] Current Step: 2, idealLoopCounter: 1338
+[Loop End] Current Step: 2, idealLoopCounter: 1340
+[Loop End] Current Step: 2, idealLoopCounter: 1342
+[Loop End] Current Step: 2, idealLoopCounter: 1344
+[Loop End] Current Step: 2, idealLoopCounter: 1346
+[Loop End] Current Step: 2, idealLoopCounter: 1348
+[Loop End] Current Step: 2, idealLoopCounter: 1350
+[Loop End] Current Step: 2, idealLoopCounter: 1352
+[Loop End] Current Step: 2, idealLoopCounter: 1354
+[Loop End] Current Step: 2, idealLoopCounter: 1356
+[Loop End] Current Step: 2, idealLoopCounter: 1358
+[Loop End] Current Step: 2, idealLoopCounter: 1360
+[Loop End] Current Step: 2, idealLoopCounter: 1362
+[Loop End] Current Step: 2, idealLoopCounter: 1364
+[Loop End] Current Step: 2, idealLoopCounter: 1366
+[Loop End] Current Step: 2, idealLoopCounter: 1368
+[Loop End] Current Step: 2, idealLoopCounter: 1370
+[Loop End] Current Step: 2, idealLoopCounter: 1372
+[Loop End] Current Step: 2, idealLoopCounter: 1374
+[Loop End] Current Step: 2, idealLoopCounter: 1376
+[Loop End] Current Step: 2, idealLoopCounter: 1378
+[Loop End] Current Step: 2, idealLoopCounter: 1380
+[Loop End] Current Step: 2, idealLoopCounter: 1382
+[Loop End] Current Step: 2, idealLoopCounter: 1384
+[Loop End] Current Step: 2, idealLoopCounter: 1386
+[Loop End] Current Step: 2, idealLoopCounter: 1388
+[Loop End] Current Step: 2, idealLoopCounter: 1390
+[Loop End] Current Step: 2, idealLoopCounter: 1392
+[Loop End] Current Step: 2, idealLoopCounter: 1394
+[Loop End] Current Step: 2, idealLoopCounter: 1396
+[Loop End] Current Step: 2, idealLoopCounter: 1398
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_0710_1400.dump
+[Loop End] Current Step: 2, idealLoopCounter: 1400
+[Loop End] Current Step: 2, idealLoopCounter: 1402
+[Loop End] Current Step: 2, idealLoopCounter: 1404
+[Loop End] Current Step: 2, idealLoopCounter: 1406
+[Loop End] Current Step: 2, idealLoopCounter: 1408
+[Loop End] Current Step: 2, idealLoopCounter: 1410
+[Loop End] Current Step: 2, idealLoopCounter: 1412
+[Loop End] Current Step: 2, idealLoopCounter: 1414
+[Loop End] Current Step: 2, idealLoopCounter: 1416
+[Loop End] Current Step: 2, idealLoopCounter: 1418
+[Loop End] Current Step: 2, idealLoopCounter: 1420
+[Loop End] Current Step: 2, idealLoopCounter: 1422
+[Loop End] Current Step: 2, idealLoopCounter: 1424
+[Loop End] Current Step: 2, idealLoopCounter: 1426
+[Loop End] Current Step: 2, idealLoopCounter: 1428
+[Loop End] Current Step: 2, idealLoopCounter: 1430
+[Loop End] Current Step: 2, idealLoopCounter: 1432
+[Loop End] Current Step: 2, idealLoopCounter: 1434
+[Loop End] Current Step: 2, idealLoopCounter: 1436
+[Loop End] Current Step: 2, idealLoopCounter: 1438
+[Loop End] Current Step: 2, idealLoopCounter: 1440
+[Loop End] Current Step: 2, idealLoopCounter: 1442
+[Loop End] Current Step: 2, idealLoopCounter: 1444
+[Loop End] Current Step: 2, idealLoopCounter: 1446
+[Loop End] Current Step: 2, idealLoopCounter: 1448
+[Loop End] Current Step: 2, idealLoopCounter: 1450
+[Loop End] Current Step: 2, idealLoopCounter: 1452
+[Loop End] Current Step: 2, idealLoopCounter: 1454
+[Loop End] Current Step: 2, idealLoopCounter: 1456
+[Loop End] Current Step: 2, idealLoopCounter: 1458
+[Loop End] Current Step: 2, idealLoopCounter: 1460
+[Loop End] Current Step: 2, idealLoopCounter: 1462
+[Loop End] Current Step: 2, idealLoopCounter: 1464
+[Loop End] Current Step: 2, idealLoopCounter: 1466
+[Loop End] Current Step: 2, idealLoopCounter: 1468
+[Loop End] Current Step: 2, idealLoopCounter: 1470
+[Loop End] Current Step: 2, idealLoopCounter: 1472
+[Loop End] Current Step: 2, idealLoopCounter: 1474
+[Loop End] Current Step: 2, idealLoopCounter: 1476
+[Loop End] Current Step: 2, idealLoopCounter: 1478
+[Loop End] Current Step: 2, idealLoopCounter: 1480
+[Loop End] Current Step: 2, idealLoopCounter: 1482
+[Loop End] Current Step: 2, idealLoopCounter: 1484
+[Loop End] Current Step: 2, idealLoopCounter: 1486
+[Loop End] Current Step: 2, idealLoopCounter: 1488
+[Loop End] Current Step: 2, idealLoopCounter: 1490
+[Loop End] Current Step: 2, idealLoopCounter: 1492
+[Loop End] Current Step: 2, idealLoopCounter: 1494
+[Loop End] Current Step: 2, idealLoopCounter: 1496
+[Loop End] Current Step: 2, idealLoopCounter: 1498
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_0760_1500.dump
+[Loop End] Current Step: 2, idealLoopCounter: 1500
+[Loop End] Current Step: 2, idealLoopCounter: 1502
+[Loop End] Current Step: 2, idealLoopCounter: 1504
+[Loop End] Current Step: 2, idealLoopCounter: 1506
+[Loop End] Current Step: 2, idealLoopCounter: 1508
+[Loop End] Current Step: 2, idealLoopCounter: 1510
+[Loop End] Current Step: 2, idealLoopCounter: 1512
+[Loop End] Current Step: 2, idealLoopCounter: 1514
+[Loop End] Current Step: 2, idealLoopCounter: 1516
+[Loop End] Current Step: 2, idealLoopCounter: 1518
+[Loop End] Current Step: 2, idealLoopCounter: 1520
+[Loop End] Current Step: 2, idealLoopCounter: 1522
+[Loop End] Current Step: 2, idealLoopCounter: 1524
+[Loop End] Current Step: 2, idealLoopCounter: 1526
+[Loop End] Current Step: 2, idealLoopCounter: 1528
+[Loop End] Current Step: 2, idealLoopCounter: 1530
+[Loop End] Current Step: 2, idealLoopCounter: 1532
+[Loop End] Current Step: 2, idealLoopCounter: 1534
+[Loop End] Current Step: 2, idealLoopCounter: 1536
+[Loop End] Current Step: 2, idealLoopCounter: 1538
+[Loop End] Current Step: 2, idealLoopCounter: 1540
+[Loop End] Current Step: 2, idealLoopCounter: 1542
+[Loop End] Current Step: 2, idealLoopCounter: 1544
+[Loop End] Current Step: 2, idealLoopCounter: 1546
+[Loop End] Current Step: 2, idealLoopCounter: 1548
+[Loop End] Current Step: 2, idealLoopCounter: 1550
+[Loop End] Current Step: 2, idealLoopCounter: 1552
+[Loop End] Current Step: 2, idealLoopCounter: 1554
+[Loop End] Current Step: 2, idealLoopCounter: 1556
+[Loop End] Current Step: 2, idealLoopCounter: 1558
+[Loop End] Current Step: 2, idealLoopCounter: 1560
+[Loop End] Current Step: 2, idealLoopCounter: 1562
+[Loop End] Current Step: 2, idealLoopCounter: 1564
+[Loop End] Current Step: 2, idealLoopCounter: 1566
+[Loop End] Current Step: 2, idealLoopCounter: 1568
+[Loop End] Current Step: 2, idealLoopCounter: 1570
+[Loop End] Current Step: 2, idealLoopCounter: 1572
+[Loop End] Current Step: 2, idealLoopCounter: 1574
+[Loop End] Current Step: 2, idealLoopCounter: 1576
+[Loop End] Current Step: 2, idealLoopCounter: 1578
+[Loop End] Current Step: 2, idealLoopCounter: 1580
+[Loop End] Current Step: 2, idealLoopCounter: 1582
+[Loop End] Current Step: 2, idealLoopCounter: 1584
+[Loop End] Current Step: 2, idealLoopCounter: 1586
+[Loop End] Current Step: 2, idealLoopCounter: 1588
+[Loop End] Current Step: 2, idealLoopCounter: 1590
+[Loop End] Current Step: 2, idealLoopCounter: 1592
+[Loop End] Current Step: 2, idealLoopCounter: 1594
+[Loop End] Current Step: 2, idealLoopCounter: 1596
+[Loop End] Current Step: 2, idealLoopCounter: 1598
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_0810_1600.dump
+[Loop End] Current Step: 2, idealLoopCounter: 1600
+[Loop End] Current Step: 2, idealLoopCounter: 1602
+[Loop End] Current Step: 2, idealLoopCounter: 1604
+[Loop End] Current Step: 2, idealLoopCounter: 1606
+[Loop End] Current Step: 2, idealLoopCounter: 1608
+[Loop End] Current Step: 2, idealLoopCounter: 1610
+[Loop End] Current Step: 2, idealLoopCounter: 1612
+[Loop End] Current Step: 2, idealLoopCounter: 1614
+[Loop End] Current Step: 2, idealLoopCounter: 1616
+[Loop End] Current Step: 2, idealLoopCounter: 1618
+[Loop End] Current Step: 2, idealLoopCounter: 1620
+[Loop End] Current Step: 2, idealLoopCounter: 1622
+[Loop End] Current Step: 2, idealLoopCounter: 1624
+[Loop End] Current Step: 2, idealLoopCounter: 1626
+[Loop End] Current Step: 2, idealLoopCounter: 1628
+[Loop End] Current Step: 2, idealLoopCounter: 1630
+[Loop End] Current Step: 2, idealLoopCounter: 1632
+[Loop End] Current Step: 2, idealLoopCounter: 1634
+[Loop End] Current Step: 2, idealLoopCounter: 1636
+[Loop End] Current Step: 2, idealLoopCounter: 1638
+[Loop End] Current Step: 2, idealLoopCounter: 1640
+[Loop End] Current Step: 2, idealLoopCounter: 1642
+[Loop End] Current Step: 2, idealLoopCounter: 1644
+[Loop End] Current Step: 2, idealLoopCounter: 1646
+[Loop End] Current Step: 2, idealLoopCounter: 1648
+[Loop End] Current Step: 2, idealLoopCounter: 1650
+[Loop End] Current Step: 2, idealLoopCounter: 1652
+[Loop End] Current Step: 2, idealLoopCounter: 1654
+[Loop End] Current Step: 2, idealLoopCounter: 1656
+[Loop End] Current Step: 2, idealLoopCounter: 1658
+[Loop End] Current Step: 2, idealLoopCounter: 1660
+[Loop End] Current Step: 2, idealLoopCounter: 1662
+[Loop End] Current Step: 2, idealLoopCounter: 1664
+[Loop End] Current Step: 2, idealLoopCounter: 1666
+[Loop End] Current Step: 2, idealLoopCounter: 1668
+[Loop End] Current Step: 2, idealLoopCounter: 1670
+[Loop End] Current Step: 2, idealLoopCounter: 1672
+[Loop End] Current Step: 2, idealLoopCounter: 1674
+[Loop End] Current Step: 2, idealLoopCounter: 1676
+[Loop End] Current Step: 2, idealLoopCounter: 1678
+[Loop End] Current Step: 2, idealLoopCounter: 1680
+[Loop End] Current Step: 2, idealLoopCounter: 1682
+[Loop End] Current Step: 2, idealLoopCounter: 1684
+[Loop End] Current Step: 2, idealLoopCounter: 1686
+[Loop End] Current Step: 2, idealLoopCounter: 1688
+[Loop End] Current Step: 2, idealLoopCounter: 1690
+[Loop End] Current Step: 2, idealLoopCounter: 1692
+[Loop End] Current Step: 2, idealLoopCounter: 1694
+[Loop End] Current Step: 2, idealLoopCounter: 1696
+[Loop End] Current Step: 2, idealLoopCounter: 1698
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_0860_1700.dump
+[Loop End] Current Step: 2, idealLoopCounter: 1700
+[Loop End] Current Step: 2, idealLoopCounter: 1702
+[Loop End] Current Step: 2, idealLoopCounter: 1704
+[Loop End] Current Step: 2, idealLoopCounter: 1706
+[Loop End] Current Step: 2, idealLoopCounter: 1708
+[Loop End] Current Step: 2, idealLoopCounter: 1710
+[Loop End] Current Step: 2, idealLoopCounter: 1712
+[Loop End] Current Step: 2, idealLoopCounter: 1714
+[Loop End] Current Step: 2, idealLoopCounter: 1716
+[Loop End] Current Step: 2, idealLoopCounter: 1718
+[Loop End] Current Step: 2, idealLoopCounter: 1720
+[Loop End] Current Step: 2, idealLoopCounter: 1722
+[Loop End] Current Step: 2, idealLoopCounter: 1724
+[Loop End] Current Step: 2, idealLoopCounter: 1726
+[Loop End] Current Step: 2, idealLoopCounter: 1728
+[Loop End] Current Step: 2, idealLoopCounter: 1730
+[Loop End] Current Step: 2, idealLoopCounter: 1732
+[Loop End] Current Step: 2, idealLoopCounter: 1734
+[Loop End] Current Step: 2, idealLoopCounter: 1736
+[Loop End] Current Step: 2, idealLoopCounter: 1738
+[Loop End] Current Step: 2, idealLoopCounter: 1740
+[Loop End] Current Step: 2, idealLoopCounter: 1742
+[Loop End] Current Step: 2, idealLoopCounter: 1744
+[Loop End] Current Step: 2, idealLoopCounter: 1746
+[Loop End] Current Step: 2, idealLoopCounter: 1748
+[Loop End] Current Step: 2, idealLoopCounter: 1750
+[Loop End] Current Step: 2, idealLoopCounter: 1752
+[Loop End] Current Step: 2, idealLoopCounter: 1754
+[Loop End] Current Step: 2, idealLoopCounter: 1756
+[Loop End] Current Step: 2, idealLoopCounter: 1758
+[Loop End] Current Step: 2, idealLoopCounter: 1760
+[Loop End] Current Step: 2, idealLoopCounter: 1762
+[Loop End] Current Step: 2, idealLoopCounter: 1764
+[Loop End] Current Step: 2, idealLoopCounter: 1766
+[Loop End] Current Step: 2, idealLoopCounter: 1768
+[Loop End] Current Step: 2, idealLoopCounter: 1770
+[Loop End] Current Step: 2, idealLoopCounter: 1772
+[Loop End] Current Step: 2, idealLoopCounter: 1774
+[Loop End] Current Step: 2, idealLoopCounter: 1776
+[Loop End] Current Step: 2, idealLoopCounter: 1778
+[Loop End] Current Step: 2, idealLoopCounter: 1780
+[Loop End] Current Step: 2, idealLoopCounter: 1782
+[Loop End] Current Step: 2, idealLoopCounter: 1784
+[Loop End] Current Step: 2, idealLoopCounter: 1786
+[Loop End] Current Step: 2, idealLoopCounter: 1788
+[Loop End] Current Step: 2, idealLoopCounter: 1790
+[Loop End] Current Step: 2, idealLoopCounter: 1792
+[Loop End] Current Step: 2, idealLoopCounter: 1794
+[Loop End] Current Step: 2, idealLoopCounter: 1796
+[Loop End] Current Step: 2, idealLoopCounter: 1798
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_0910_1800.dump
+[Loop End] Current Step: 2, idealLoopCounter: 1800
+[Loop End] Current Step: 2, idealLoopCounter: 1802
+[Loop End] Current Step: 2, idealLoopCounter: 1804
+[Loop End] Current Step: 2, idealLoopCounter: 1806
+[Loop End] Current Step: 2, idealLoopCounter: 1808
+[Loop End] Current Step: 2, idealLoopCounter: 1810
+[Loop End] Current Step: 2, idealLoopCounter: 1812
+[Loop End] Current Step: 2, idealLoopCounter: 1814
+[Loop End] Current Step: 2, idealLoopCounter: 1816
+[Loop End] Current Step: 2, idealLoopCounter: 1818
+[Loop End] Current Step: 2, idealLoopCounter: 1820
+[Loop End] Current Step: 2, idealLoopCounter: 1822
+[Loop End] Current Step: 2, idealLoopCounter: 1824
+[Loop End] Current Step: 2, idealLoopCounter: 1826
+[Loop End] Current Step: 2, idealLoopCounter: 1828
+[Loop End] Current Step: 2, idealLoopCounter: 1830
+[Loop End] Current Step: 2, idealLoopCounter: 1832
+[Loop End] Current Step: 2, idealLoopCounter: 1834
+[Loop End] Current Step: 2, idealLoopCounter: 1836
+[Loop End] Current Step: 2, idealLoopCounter: 1838
+[Loop End] Current Step: 2, idealLoopCounter: 1840
+[Loop End] Current Step: 2, idealLoopCounter: 1842
+[Loop End] Current Step: 2, idealLoopCounter: 1844
+[Loop End] Current Step: 2, idealLoopCounter: 1846
+[Loop End] Current Step: 2, idealLoopCounter: 1848
+[Loop End] Current Step: 2, idealLoopCounter: 1850
+[Loop End] Current Step: 2, idealLoopCounter: 1852
+[Loop End] Current Step: 2, idealLoopCounter: 1854
+[Loop End] Current Step: 2, idealLoopCounter: 1856
+[Loop End] Current Step: 2, idealLoopCounter: 1858
+[Loop End] Current Step: 2, idealLoopCounter: 1860
+[Loop End] Current Step: 2, idealLoopCounter: 1862
+[Loop End] Current Step: 2, idealLoopCounter: 1864
+[Loop End] Current Step: 2, idealLoopCounter: 1866
+[Loop End] Current Step: 2, idealLoopCounter: 1868
+[Loop End] Current Step: 2, idealLoopCounter: 1870
+[Loop End] Current Step: 2, idealLoopCounter: 1872
+[Loop End] Current Step: 2, idealLoopCounter: 1874
+[Loop End] Current Step: 2, idealLoopCounter: 1876
+[Loop End] Current Step: 2, idealLoopCounter: 1878
+[Loop End] Current Step: 2, idealLoopCounter: 1880
+[Loop End] Current Step: 2, idealLoopCounter: 1882
+[Loop End] Current Step: 2, idealLoopCounter: 1884
+[Loop End] Current Step: 2, idealLoopCounter: 1886
+[Loop End] Current Step: 2, idealLoopCounter: 1888
+[Loop End] Current Step: 2, idealLoopCounter: 1890
+[Loop End] Current Step: 2, idealLoopCounter: 1892
+[Loop End] Current Step: 2, idealLoopCounter: 1894
+[Loop End] Current Step: 2, idealLoopCounter: 1896
+[Loop End] Current Step: 2, idealLoopCounter: 1898
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_0960_1900.dump
+[Loop End] Current Step: 2, idealLoopCounter: 1900
+[Loop End] Current Step: 2, idealLoopCounter: 1902
+[Loop End] Current Step: 2, idealLoopCounter: 1904
+[Loop End] Current Step: 2, idealLoopCounter: 1906
+[Loop End] Current Step: 2, idealLoopCounter: 1908
+[Loop End] Current Step: 2, idealLoopCounter: 1910
+[Loop End] Current Step: 2, idealLoopCounter: 1912
+[Loop End] Current Step: 2, idealLoopCounter: 1914
+[Loop End] Current Step: 2, idealLoopCounter: 1916
+[Loop End] Current Step: 2, idealLoopCounter: 1918
+[Loop End] Current Step: 2, idealLoopCounter: 1920
+[Loop End] Current Step: 2, idealLoopCounter: 1922
+[Loop End] Current Step: 2, idealLoopCounter: 1924
+[Loop End] Current Step: 2, idealLoopCounter: 1926
+[Loop End] Current Step: 2, idealLoopCounter: 1928
+[Loop End] Current Step: 2, idealLoopCounter: 1930
+[Loop End] Current Step: 2, idealLoopCounter: 1932
+[Loop End] Current Step: 2, idealLoopCounter: 1934
+[Loop End] Current Step: 2, idealLoopCounter: 1936
+[Loop End] Current Step: 2, idealLoopCounter: 1938
+[Loop End] Current Step: 2, idealLoopCounter: 1940
+[Loop End] Current Step: 2, idealLoopCounter: 1942
+[Loop End] Current Step: 2, idealLoopCounter: 1944
+[Loop End] Current Step: 2, idealLoopCounter: 1946
+[Loop End] Current Step: 2, idealLoopCounter: 1948
+[Loop End] Current Step: 2, idealLoopCounter: 1950
+[Loop End] Current Step: 2, idealLoopCounter: 1952
+[Loop End] Current Step: 2, idealLoopCounter: 1954
+[Loop End] Current Step: 2, idealLoopCounter: 1956
+[Loop End] Current Step: 2, idealLoopCounter: 1958
+[Loop End] Current Step: 2, idealLoopCounter: 1960
+[Loop End] Current Step: 2, idealLoopCounter: 1962
+[Loop End] Current Step: 2, idealLoopCounter: 1964
+[Loop End] Current Step: 2, idealLoopCounter: 1966
+[Loop End] Current Step: 2, idealLoopCounter: 1968
+[Loop End] Current Step: 2, idealLoopCounter: 1970
+[Loop End] Current Step: 2, idealLoopCounter: 1972
+[Loop End] Current Step: 2, idealLoopCounter: 1974
+[Loop End] Current Step: 2, idealLoopCounter: 1976
+[Loop End] Current Step: 2, idealLoopCounter: 1978
+[Loop End] Current Step: 2, idealLoopCounter: 1980
+[Loop End] Current Step: 1, idealLoopCounter: 1981
+[Loop End] Current Step: 1, idealLoopCounter: 1982
+[Loop End] Current Step: 1, idealLoopCounter: 1983
+[Loop End] Current Step: 1, idealLoopCounter: 1984
+[Loop End] Current Step: 1, idealLoopCounter: 1985
+[Loop End] Current Step: 1, idealLoopCounter: 1986
+[Loop End] Current Step: 1, idealLoopCounter: 1987
+[Loop End] Current Step: 1, idealLoopCounter: 1988
+[Loop End] Current Step: 1, idealLoopCounter: 1989
+[Loop End] Current Step: 1, idealLoopCounter: 1990
+[Loop End] Current Step: 1, idealLoopCounter: 1991
+[Loop End] Current Step: 1, idealLoopCounter: 1992
+[Loop End] Current Step: 1, idealLoopCounter: 1993
+[Loop End] Current Step: 1, idealLoopCounter: 1994
+[Loop End] Current Step: 1, idealLoopCounter: 1995
+[Loop End] Current Step: 1, idealLoopCounter: 1996
+[Loop End] Current Step: 1, idealLoopCounter: 1997
+[Loop End] Current Step: 1, idealLoopCounter: 1998
+[Loop End] Current Step: 1, idealLoopCounter: 1999
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_1020_2000.dump
+[Clipper] Periodic detect_gaps_via_clipper() at step 2000
+[Clipper] Final polygon count: 46
+[Clipper] Detected holes: 47
+Hole #43 area=5.84652 um^2 -> Processed (attachment)
+[Clipper] Selection type=2 mode=1 value=4 => start=340, end=344 (total=684)
+    [Attach] Distance=2.23294 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=2.23212 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=2.22913 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=2.22747 | HOLE_MIN_CELLS=4, actual unique_cells=4
+Hole #44 area=5.1981 um^2 -> Processed (attachment)
+[Clipper] Selection type=2 mode=1 value=4 => start=355, end=359 (total=715)
+    [Attach] Distance=2.06223 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=2.06137 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=2.06106 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=2.05893 | HOLE_MIN_CELLS=4, actual unique_cells=4
+Hole #46 area=4.33866 um^2 -> Processed (attachment)
+[Clipper] Selection type=2 mode=1 value=4 => start=295, end=299 (total=595)
+    [Attach] Distance=1.92448 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=1.92174 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=1.91809 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=1.91729 | HOLE_MIN_CELLS=4, actual unique_cells=4
+[Clipper] Total new attachments: 12
+[Loop End] Current Step: 1, idealLoopCounter: 2000
+debug::idealLoopCounter % 10 == 0
+Timestep: 2000, TF: 0
+Timestep: 2000
+ TF: 0
+Calling update_Adhesion
+[Loop End] Current Step: 2, idealLoopCounter: 2002
+[Loop End] Current Step: 2, idealLoopCounter: 2004
+[Loop End] Current Step: 2, idealLoopCounter: 2006
+[Loop End] Current Step: 2, idealLoopCounter: 2008
+[Loop End] Current Step: 2, idealLoopCounter: 2010
+[Loop End] Current Step: 2, idealLoopCounter: 2012
+[Loop End] Current Step: 2, idealLoopCounter: 2014
+[Loop End] Current Step: 2, idealLoopCounter: 2016
+[Loop End] Current Step: 2, idealLoopCounter: 2018
+[Loop End] Current Step: 2, idealLoopCounter: 2020
+[Loop End] Current Step: 2, idealLoopCounter: 2022
+[Loop End] Current Step: 2, idealLoopCounter: 2024
+[Loop End] Current Step: 2, idealLoopCounter: 2026
+[Loop End] Current Step: 2, idealLoopCounter: 2028
+[Loop End] Current Step: 2, idealLoopCounter: 2030
+[Loop End] Current Step: 2, idealLoopCounter: 2032
+[Loop End] Current Step: 2, idealLoopCounter: 2034
+[Loop End] Current Step: 2, idealLoopCounter: 2036
+[Loop End] Current Step: 2, idealLoopCounter: 2038
+[Loop End] Current Step: 2, idealLoopCounter: 2040
+[Loop End] Current Step: 2, idealLoopCounter: 2042
+[Loop End] Current Step: 2, idealLoopCounter: 2044
+[Loop End] Current Step: 2, idealLoopCounter: 2046
+[Loop End] Current Step: 2, idealLoopCounter: 2048
+[Loop End] Current Step: 2, idealLoopCounter: 2050
+[Loop End] Current Step: 2, idealLoopCounter: 2052
+[Loop End] Current Step: 2, idealLoopCounter: 2054
+[Loop End] Current Step: 2, idealLoopCounter: 2056
+[Loop End] Current Step: 2, idealLoopCounter: 2058
+[Loop End] Current Step: 2, idealLoopCounter: 2060
+[Loop End] Current Step: 2, idealLoopCounter: 2062
+[Loop End] Current Step: 2, idealLoopCounter: 2064
+[Loop End] Current Step: 2, idealLoopCounter: 2066
+[Loop End] Current Step: 2, idealLoopCounter: 2068
+[Loop End] Current Step: 2, idealLoopCounter: 2070
+[Loop End] Current Step: 2, idealLoopCounter: 2072
+[Loop End] Current Step: 2, idealLoopCounter: 2074
+[Loop End] Current Step: 2, idealLoopCounter: 2076
+[Loop End] Current Step: 2, idealLoopCounter: 2078
+[Loop End] Current Step: 2, idealLoopCounter: 2080
+[Loop End] Current Step: 2, idealLoopCounter: 2082
+[Loop End] Current Step: 2, idealLoopCounter: 2084
+[Loop End] Current Step: 2, idealLoopCounter: 2086
+[Loop End] Current Step: 2, idealLoopCounter: 2088
+[Loop End] Current Step: 2, idealLoopCounter: 2090
+[Loop End] Current Step: 2, idealLoopCounter: 2092
+[Loop End] Current Step: 2, idealLoopCounter: 2094
+[Loop End] Current Step: 2, idealLoopCounter: 2096
+[Loop End] Current Step: 2, idealLoopCounter: 2098
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_1070_2100.dump
+[Loop End] Current Step: 2, idealLoopCounter: 2100
+[Loop End] Current Step: 2, idealLoopCounter: 2102
+[Loop End] Current Step: 2, idealLoopCounter: 2104
+[Loop End] Current Step: 2, idealLoopCounter: 2106
+[Loop End] Current Step: 2, idealLoopCounter: 2108
+[Loop End] Current Step: 2, idealLoopCounter: 2110
+[Loop End] Current Step: 2, idealLoopCounter: 2112
+[Loop End] Current Step: 2, idealLoopCounter: 2114
+[Loop End] Current Step: 2, idealLoopCounter: 2116
+[Loop End] Current Step: 2, idealLoopCounter: 2118
+[Loop End] Current Step: 2, idealLoopCounter: 2120
+[Loop End] Current Step: 2, idealLoopCounter: 2122
+[Loop End] Current Step: 2, idealLoopCounter: 2124
+[Loop End] Current Step: 2, idealLoopCounter: 2126
+[Loop End] Current Step: 2, idealLoopCounter: 2128
+[Loop End] Current Step: 2, idealLoopCounter: 2130
+[Loop End] Current Step: 2, idealLoopCounter: 2132
+[Loop End] Current Step: 2, idealLoopCounter: 2134
+[Loop End] Current Step: 2, idealLoopCounter: 2136
+[Loop End] Current Step: 2, idealLoopCounter: 2138
+[Loop End] Current Step: 2, idealLoopCounter: 2140
+[Loop End] Current Step: 2, idealLoopCounter: 2142
+[Loop End] Current Step: 2, idealLoopCounter: 2144
+[Loop End] Current Step: 2, idealLoopCounter: 2146
+[Loop End] Current Step: 2, idealLoopCounter: 2148
+[Loop End] Current Step: 2, idealLoopCounter: 2150
+[Loop End] Current Step: 2, idealLoopCounter: 2152
+[Loop End] Current Step: 2, idealLoopCounter: 2154
+[Loop End] Current Step: 2, idealLoopCounter: 2156
+[Loop End] Current Step: 2, idealLoopCounter: 2158
+[Loop End] Current Step: 2, idealLoopCounter: 2160
+[Loop End] Current Step: 2, idealLoopCounter: 2162
+[Loop End] Current Step: 2, idealLoopCounter: 2164
+[Loop End] Current Step: 2, idealLoopCounter: 2166
+[Loop End] Current Step: 2, idealLoopCounter: 2168
+[Loop End] Current Step: 2, idealLoopCounter: 2170
+[Loop End] Current Step: 2, idealLoopCounter: 2172
+[Loop End] Current Step: 2, idealLoopCounter: 2174
+[Loop End] Current Step: 2, idealLoopCounter: 2176
+[Loop End] Current Step: 2, idealLoopCounter: 2178
+[Loop End] Current Step: 2, idealLoopCounter: 2180
+[Loop End] Current Step: 2, idealLoopCounter: 2182
+[Loop End] Current Step: 2, idealLoopCounter: 2184
+[Loop End] Current Step: 2, idealLoopCounter: 2186
+[Loop End] Current Step: 2, idealLoopCounter: 2188
+[Loop End] Current Step: 2, idealLoopCounter: 2190
+[Loop End] Current Step: 2, idealLoopCounter: 2192
+[Loop End] Current Step: 2, idealLoopCounter: 2194
+[Loop End] Current Step: 2, idealLoopCounter: 2196
+[Loop End] Current Step: 2, idealLoopCounter: 2198
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_1120_2200.dump
+[Loop End] Current Step: 2, idealLoopCounter: 2200
+[Loop End] Current Step: 2, idealLoopCounter: 2202
+[Loop End] Current Step: 2, idealLoopCounter: 2204
+[Loop End] Current Step: 2, idealLoopCounter: 2206
+[Loop End] Current Step: 2, idealLoopCounter: 2208
+[Loop End] Current Step: 2, idealLoopCounter: 2210
+[Loop End] Current Step: 2, idealLoopCounter: 2212
+[Loop End] Current Step: 2, idealLoopCounter: 2214
+[Loop End] Current Step: 2, idealLoopCounter: 2216
+[Loop End] Current Step: 2, idealLoopCounter: 2218
+[Loop End] Current Step: 2, idealLoopCounter: 2220
+[Loop End] Current Step: 2, idealLoopCounter: 2222
+[Loop End] Current Step: 2, idealLoopCounter: 2224
+[Loop End] Current Step: 2, idealLoopCounter: 2226
+[Loop End] Current Step: 2, idealLoopCounter: 2228
+[Loop End] Current Step: 2, idealLoopCounter: 2230
+[Loop End] Current Step: 2, idealLoopCounter: 2232
+[Loop End] Current Step: 2, idealLoopCounter: 2234
+[Loop End] Current Step: 2, idealLoopCounter: 2236
+[Loop End] Current Step: 2, idealLoopCounter: 2238
+[Loop End] Current Step: 2, idealLoopCounter: 2240
+[Loop End] Current Step: 2, idealLoopCounter: 2242
+[Loop End] Current Step: 2, idealLoopCounter: 2244
+[Loop End] Current Step: 2, idealLoopCounter: 2246
+[Loop End] Current Step: 2, idealLoopCounter: 2248
+[Loop End] Current Step: 2, idealLoopCounter: 2250
+[Loop End] Current Step: 2, idealLoopCounter: 2252
+[Loop End] Current Step: 2, idealLoopCounter: 2254
+[Loop End] Current Step: 2, idealLoopCounter: 2256
+[Loop End] Current Step: 2, idealLoopCounter: 2258
+[Loop End] Current Step: 2, idealLoopCounter: 2260
+[Loop End] Current Step: 2, idealLoopCounter: 2262
+[Loop End] Current Step: 2, idealLoopCounter: 2264
+[Loop End] Current Step: 2, idealLoopCounter: 2266
+[Loop End] Current Step: 2, idealLoopCounter: 2268
+[Loop End] Current Step: 2, idealLoopCounter: 2270
+[Loop End] Current Step: 2, idealLoopCounter: 2272
+[Loop End] Current Step: 2, idealLoopCounter: 2274
+[Loop End] Current Step: 2, idealLoopCounter: 2276
+[Loop End] Current Step: 2, idealLoopCounter: 2278
+[Loop End] Current Step: 2, idealLoopCounter: 2280
+[Loop End] Current Step: 2, idealLoopCounter: 2282
+[Loop End] Current Step: 2, idealLoopCounter: 2284
+[Loop End] Current Step: 2, idealLoopCounter: 2286
+[Loop End] Current Step: 2, idealLoopCounter: 2288
+[Loop End] Current Step: 2, idealLoopCounter: 2290
+[Loop End] Current Step: 2, idealLoopCounter: 2292
+[Loop End] Current Step: 2, idealLoopCounter: 2294
+[Loop End] Current Step: 2, idealLoopCounter: 2296
+[Loop End] Current Step: 2, idealLoopCounter: 2298
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_1170_2300.dump
+[Loop End] Current Step: 2, idealLoopCounter: 2300
+[Loop End] Current Step: 2, idealLoopCounter: 2302
+[Loop End] Current Step: 2, idealLoopCounter: 2304
+[Loop End] Current Step: 2, idealLoopCounter: 2306
+[Loop End] Current Step: 2, idealLoopCounter: 2308
+[Loop End] Current Step: 2, idealLoopCounter: 2310
+[Loop End] Current Step: 2, idealLoopCounter: 2312
+[Loop End] Current Step: 2, idealLoopCounter: 2314
+[Loop End] Current Step: 2, idealLoopCounter: 2316
+[Loop End] Current Step: 2, idealLoopCounter: 2318
+[Loop End] Current Step: 2, idealLoopCounter: 2320
+[Loop End] Current Step: 2, idealLoopCounter: 2322
+[Loop End] Current Step: 2, idealLoopCounter: 2324
+[Loop End] Current Step: 2, idealLoopCounter: 2326
+[Loop End] Current Step: 2, idealLoopCounter: 2328
+[Loop End] Current Step: 2, idealLoopCounter: 2330
+[Loop End] Current Step: 2, idealLoopCounter: 2332
+[Loop End] Current Step: 2, idealLoopCounter: 2334
+[Loop End] Current Step: 2, idealLoopCounter: 2336
+[Loop End] Current Step: 2, idealLoopCounter: 2338
+[Loop End] Current Step: 2, idealLoopCounter: 2340
+[Loop End] Current Step: 2, idealLoopCounter: 2342
+[Loop End] Current Step: 2, idealLoopCounter: 2344
+[Loop End] Current Step: 2, idealLoopCounter: 2346
+[Loop End] Current Step: 2, idealLoopCounter: 2348
+[Loop End] Current Step: 2, idealLoopCounter: 2350
+[Loop End] Current Step: 2, idealLoopCounter: 2352
+[Loop End] Current Step: 2, idealLoopCounter: 2354
+[Loop End] Current Step: 2, idealLoopCounter: 2356
+[Loop End] Current Step: 2, idealLoopCounter: 2358
+[Loop End] Current Step: 2, idealLoopCounter: 2360
+[Loop End] Current Step: 2, idealLoopCounter: 2362
+[Loop End] Current Step: 2, idealLoopCounter: 2364
+[Loop End] Current Step: 2, idealLoopCounter: 2366
+[Loop End] Current Step: 2, idealLoopCounter: 2368
+[Loop End] Current Step: 2, idealLoopCounter: 2370
+[Loop End] Current Step: 2, idealLoopCounter: 2372
+[Loop End] Current Step: 2, idealLoopCounter: 2374
+[Loop End] Current Step: 2, idealLoopCounter: 2376
+[Loop End] Current Step: 2, idealLoopCounter: 2378
+[Loop End] Current Step: 2, idealLoopCounter: 2380
+[Loop End] Current Step: 2, idealLoopCounter: 2382
+[Loop End] Current Step: 2, idealLoopCounter: 2384
+[Loop End] Current Step: 2, idealLoopCounter: 2386
+[Loop End] Current Step: 2, idealLoopCounter: 2388
+[Loop End] Current Step: 2, idealLoopCounter: 2390
+[Loop End] Current Step: 2, idealLoopCounter: 2392
+[Loop End] Current Step: 2, idealLoopCounter: 2394
+[Loop End] Current Step: 2, idealLoopCounter: 2396
+[Loop End] Current Step: 2, idealLoopCounter: 2398
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_1220_2400.dump
+[Loop End] Current Step: 2, idealLoopCounter: 2400
+[Loop End] Current Step: 2, idealLoopCounter: 2402
+[Loop End] Current Step: 2, idealLoopCounter: 2404
+[Loop End] Current Step: 2, idealLoopCounter: 2406
+[Loop End] Current Step: 2, idealLoopCounter: 2408
+[Loop End] Current Step: 2, idealLoopCounter: 2410
+[Loop End] Current Step: 2, idealLoopCounter: 2412
+[Loop End] Current Step: 2, idealLoopCounter: 2414
+[Loop End] Current Step: 2, idealLoopCounter: 2416
+[Loop End] Current Step: 2, idealLoopCounter: 2418
+[Loop End] Current Step: 2, idealLoopCounter: 2420
+[Loop End] Current Step: 2, idealLoopCounter: 2422
+[Loop End] Current Step: 2, idealLoopCounter: 2424
+[Loop End] Current Step: 2, idealLoopCounter: 2426
+[Loop End] Current Step: 2, idealLoopCounter: 2428
+[Loop End] Current Step: 2, idealLoopCounter: 2430
+[Loop End] Current Step: 2, idealLoopCounter: 2432
+[Loop End] Current Step: 2, idealLoopCounter: 2434
+[Loop End] Current Step: 2, idealLoopCounter: 2436
+[Loop End] Current Step: 2, idealLoopCounter: 2438
+[Loop End] Current Step: 2, idealLoopCounter: 2440
+[Loop End] Current Step: 2, idealLoopCounter: 2442
+[Loop End] Current Step: 2, idealLoopCounter: 2444
+[Loop End] Current Step: 2, idealLoopCounter: 2446
+[Loop End] Current Step: 2, idealLoopCounter: 2448
+[Loop End] Current Step: 2, idealLoopCounter: 2450
+[Loop End] Current Step: 2, idealLoopCounter: 2452
+[Loop End] Current Step: 2, idealLoopCounter: 2454
+[Loop End] Current Step: 2, idealLoopCounter: 2456
+[Loop End] Current Step: 2, idealLoopCounter: 2458
+[Loop End] Current Step: 2, idealLoopCounter: 2460
+[Loop End] Current Step: 2, idealLoopCounter: 2462
+[Loop End] Current Step: 2, idealLoopCounter: 2464
+[Loop End] Current Step: 2, idealLoopCounter: 2466
+[Loop End] Current Step: 2, idealLoopCounter: 2468
+[Loop End] Current Step: 2, idealLoopCounter: 2470
+[Loop End] Current Step: 2, idealLoopCounter: 2472
+[Loop End] Current Step: 2, idealLoopCounter: 2474
+[Loop End] Current Step: 2, idealLoopCounter: 2476
+[Loop End] Current Step: 2, idealLoopCounter: 2478
+[Loop End] Current Step: 2, idealLoopCounter: 2480
+[Loop End] Current Step: 2, idealLoopCounter: 2482
+[Loop End] Current Step: 2, idealLoopCounter: 2484
+[Loop End] Current Step: 2, idealLoopCounter: 2486
+[Loop End] Current Step: 2, idealLoopCounter: 2488
+[Loop End] Current Step: 2, idealLoopCounter: 2490
+[Loop End] Current Step: 2, idealLoopCounter: 2492
+[Loop End] Current Step: 2, idealLoopCounter: 2494
+[Loop End] Current Step: 2, idealLoopCounter: 2496
+[Loop End] Current Step: 2, idealLoopCounter: 2498
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_1270_2500.dump
+[Loop End] Current Step: 2, idealLoopCounter: 2500
+[Loop End] Current Step: 2, idealLoopCounter: 2502
+[Loop End] Current Step: 2, idealLoopCounter: 2504
+[Loop End] Current Step: 2, idealLoopCounter: 2506
+[Loop End] Current Step: 2, idealLoopCounter: 2508
+[Loop End] Current Step: 2, idealLoopCounter: 2510
+[Loop End] Current Step: 2, idealLoopCounter: 2512
+[Loop End] Current Step: 2, idealLoopCounter: 2514
+[Loop End] Current Step: 2, idealLoopCounter: 2516
+[Loop End] Current Step: 2, idealLoopCounter: 2518
+[Loop End] Current Step: 2, idealLoopCounter: 2520
+[Loop End] Current Step: 2, idealLoopCounter: 2522
+[Loop End] Current Step: 2, idealLoopCounter: 2524
+[Loop End] Current Step: 2, idealLoopCounter: 2526
+[Loop End] Current Step: 2, idealLoopCounter: 2528
+[Loop End] Current Step: 2, idealLoopCounter: 2530
+[Loop End] Current Step: 2, idealLoopCounter: 2532
+[Loop End] Current Step: 2, idealLoopCounter: 2534
+[Loop End] Current Step: 2, idealLoopCounter: 2536
+[Loop End] Current Step: 2, idealLoopCounter: 2538
+[Loop End] Current Step: 2, idealLoopCounter: 2540
+[Loop End] Current Step: 2, idealLoopCounter: 2542
+[Loop End] Current Step: 2, idealLoopCounter: 2544
+[Loop End] Current Step: 2, idealLoopCounter: 2546
+[Loop End] Current Step: 2, idealLoopCounter: 2548
+[Loop End] Current Step: 2, idealLoopCounter: 2550
+[Loop End] Current Step: 2, idealLoopCounter: 2552
+[Loop End] Current Step: 2, idealLoopCounter: 2554
+[Loop End] Current Step: 2, idealLoopCounter: 2556
+[Loop End] Current Step: 2, idealLoopCounter: 2558
+[Loop End] Current Step: 2, idealLoopCounter: 2560
+[Loop End] Current Step: 2, idealLoopCounter: 2562
+[Loop End] Current Step: 2, idealLoopCounter: 2564
+[Loop End] Current Step: 2, idealLoopCounter: 2566
+[Loop End] Current Step: 2, idealLoopCounter: 2568
+[Loop End] Current Step: 2, idealLoopCounter: 2570
+[Loop End] Current Step: 2, idealLoopCounter: 2572
+[Loop End] Current Step: 2, idealLoopCounter: 2574
+[Loop End] Current Step: 2, idealLoopCounter: 2576
+[Loop End] Current Step: 2, idealLoopCounter: 2578
+[Loop End] Current Step: 2, idealLoopCounter: 2580
+[Loop End] Current Step: 2, idealLoopCounter: 2582
+[Loop End] Current Step: 2, idealLoopCounter: 2584
+[Loop End] Current Step: 2, idealLoopCounter: 2586
+[Loop End] Current Step: 2, idealLoopCounter: 2588
+[Loop End] Current Step: 2, idealLoopCounter: 2590
+[Loop End] Current Step: 2, idealLoopCounter: 2592
+[Loop End] Current Step: 2, idealLoopCounter: 2594
+[Loop End] Current Step: 2, idealLoopCounter: 2596
+[Loop End] Current Step: 2, idealLoopCounter: 2598
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_1320_2600.dump
+[Loop End] Current Step: 2, idealLoopCounter: 2600
+[Loop End] Current Step: 2, idealLoopCounter: 2602
+[Loop End] Current Step: 2, idealLoopCounter: 2604
+[Loop End] Current Step: 2, idealLoopCounter: 2606
+[Loop End] Current Step: 2, idealLoopCounter: 2608
+[Loop End] Current Step: 2, idealLoopCounter: 2610
+[Loop End] Current Step: 2, idealLoopCounter: 2612
+[Loop End] Current Step: 2, idealLoopCounter: 2614
+[Loop End] Current Step: 2, idealLoopCounter: 2616
+[Loop End] Current Step: 2, idealLoopCounter: 2618
+[Loop End] Current Step: 2, idealLoopCounter: 2620
+[Loop End] Current Step: 2, idealLoopCounter: 2622
+[Loop End] Current Step: 2, idealLoopCounter: 2624
+[Loop End] Current Step: 2, idealLoopCounter: 2626
+[Loop End] Current Step: 2, idealLoopCounter: 2628
+[Loop End] Current Step: 2, idealLoopCounter: 2630
+[Loop End] Current Step: 2, idealLoopCounter: 2632
+[Loop End] Current Step: 2, idealLoopCounter: 2634
+[Loop End] Current Step: 2, idealLoopCounter: 2636
+[Loop End] Current Step: 2, idealLoopCounter: 2638
+[Loop End] Current Step: 2, idealLoopCounter: 2640
+[Loop End] Current Step: 2, idealLoopCounter: 2642
+[Loop End] Current Step: 2, idealLoopCounter: 2644
+[Loop End] Current Step: 2, idealLoopCounter: 2646
+[Loop End] Current Step: 2, idealLoopCounter: 2648
+[Loop End] Current Step: 2, idealLoopCounter: 2650
+[Loop End] Current Step: 2, idealLoopCounter: 2652
+[Loop End] Current Step: 2, idealLoopCounter: 2654
+[Loop End] Current Step: 2, idealLoopCounter: 2656
+[Loop End] Current Step: 2, idealLoopCounter: 2658
+[Loop End] Current Step: 2, idealLoopCounter: 2660
+[Loop End] Current Step: 2, idealLoopCounter: 2662
+[Loop End] Current Step: 2, idealLoopCounter: 2664
+[Loop End] Current Step: 2, idealLoopCounter: 2666
+[Loop End] Current Step: 2, idealLoopCounter: 2668
+[Loop End] Current Step: 2, idealLoopCounter: 2670
+[Loop End] Current Step: 2, idealLoopCounter: 2672
+[Loop End] Current Step: 2, idealLoopCounter: 2674
+[Loop End] Current Step: 2, idealLoopCounter: 2676
+[Loop End] Current Step: 2, idealLoopCounter: 2678
+[Loop End] Current Step: 2, idealLoopCounter: 2680
+[Loop End] Current Step: 2, idealLoopCounter: 2682
+[Loop End] Current Step: 2, idealLoopCounter: 2684
+[Loop End] Current Step: 2, idealLoopCounter: 2686
+[Loop End] Current Step: 2, idealLoopCounter: 2688
+[Loop End] Current Step: 2, idealLoopCounter: 2690
+[Loop End] Current Step: 2, idealLoopCounter: 2692
+[Loop End] Current Step: 2, idealLoopCounter: 2694
+[Loop End] Current Step: 2, idealLoopCounter: 2696
+[Loop End] Current Step: 2, idealLoopCounter: 2698
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_1370_2700.dump
+[Loop End] Current Step: 2, idealLoopCounter: 2700
+[Loop End] Current Step: 2, idealLoopCounter: 2702
+[Loop End] Current Step: 2, idealLoopCounter: 2704
+[Loop End] Current Step: 2, idealLoopCounter: 2706
+[Loop End] Current Step: 2, idealLoopCounter: 2708
+[Loop End] Current Step: 2, idealLoopCounter: 2710
+[Loop End] Current Step: 2, idealLoopCounter: 2712
+[Loop End] Current Step: 2, idealLoopCounter: 2714
+[Loop End] Current Step: 2, idealLoopCounter: 2716
+[Loop End] Current Step: 2, idealLoopCounter: 2718
+[Loop End] Current Step: 2, idealLoopCounter: 2720
+[Loop End] Current Step: 2, idealLoopCounter: 2722
+[Loop End] Current Step: 2, idealLoopCounter: 2724
+[Loop End] Current Step: 2, idealLoopCounter: 2726
+[Loop End] Current Step: 2, idealLoopCounter: 2728
+[Loop End] Current Step: 2, idealLoopCounter: 2730
+[Loop End] Current Step: 2, idealLoopCounter: 2732
+[Loop End] Current Step: 2, idealLoopCounter: 2734
+[Loop End] Current Step: 2, idealLoopCounter: 2736
+[Loop End] Current Step: 2, idealLoopCounter: 2738
+[Loop End] Current Step: 2, idealLoopCounter: 2740
+[Loop End] Current Step: 2, idealLoopCounter: 2742
+[Loop End] Current Step: 2, idealLoopCounter: 2744
+[Loop End] Current Step: 2, idealLoopCounter: 2746
+[Loop End] Current Step: 2, idealLoopCounter: 2748
+[Loop End] Current Step: 2, idealLoopCounter: 2750
+[Loop End] Current Step: 2, idealLoopCounter: 2752
+[Loop End] Current Step: 2, idealLoopCounter: 2754
+[Loop End] Current Step: 2, idealLoopCounter: 2756
+[Loop End] Current Step: 2, idealLoopCounter: 2758
+[Loop End] Current Step: 2, idealLoopCounter: 2760
+[Loop End] Current Step: 2, idealLoopCounter: 2762
+[Loop End] Current Step: 2, idealLoopCounter: 2764
+[Loop End] Current Step: 2, idealLoopCounter: 2766
+[Loop End] Current Step: 2, idealLoopCounter: 2768
+[Loop End] Current Step: 2, idealLoopCounter: 2770
+[Loop End] Current Step: 2, idealLoopCounter: 2772
+[Loop End] Current Step: 2, idealLoopCounter: 2774
+[Loop End] Current Step: 2, idealLoopCounter: 2776
+[Loop End] Current Step: 2, idealLoopCounter: 2778
+[Loop End] Current Step: 2, idealLoopCounter: 2780
+[Loop End] Current Step: 2, idealLoopCounter: 2782
+[Loop End] Current Step: 2, idealLoopCounter: 2784
+[Loop End] Current Step: 2, idealLoopCounter: 2786
+[Loop End] Current Step: 2, idealLoopCounter: 2788
+[Loop End] Current Step: 2, idealLoopCounter: 2790
+[Loop End] Current Step: 2, idealLoopCounter: 2792
+[Loop End] Current Step: 2, idealLoopCounter: 2794
+[Loop End] Current Step: 2, idealLoopCounter: 2796
+[Loop End] Current Step: 2, idealLoopCounter: 2798
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_1420_2800.dump
+[Loop End] Current Step: 2, idealLoopCounter: 2800
+[Loop End] Current Step: 2, idealLoopCounter: 2802
+[Loop End] Current Step: 2, idealLoopCounter: 2804
+[Loop End] Current Step: 2, idealLoopCounter: 2806
+[Loop End] Current Step: 2, idealLoopCounter: 2808
+[Loop End] Current Step: 2, idealLoopCounter: 2810
+[Loop End] Current Step: 2, idealLoopCounter: 2812
+[Loop End] Current Step: 2, idealLoopCounter: 2814
+[Loop End] Current Step: 2, idealLoopCounter: 2816
+[Loop End] Current Step: 2, idealLoopCounter: 2818
+[Loop End] Current Step: 2, idealLoopCounter: 2820
+[Loop End] Current Step: 2, idealLoopCounter: 2822
+[Loop End] Current Step: 2, idealLoopCounter: 2824
+[Loop End] Current Step: 2, idealLoopCounter: 2826
+[Loop End] Current Step: 2, idealLoopCounter: 2828
+[Loop End] Current Step: 2, idealLoopCounter: 2830
+[Loop End] Current Step: 2, idealLoopCounter: 2832
+[Loop End] Current Step: 2, idealLoopCounter: 2834
+[Loop End] Current Step: 2, idealLoopCounter: 2836
+[Loop End] Current Step: 2, idealLoopCounter: 2838
+[Loop End] Current Step: 2, idealLoopCounter: 2840
+[Loop End] Current Step: 2, idealLoopCounter: 2842
+[Loop End] Current Step: 2, idealLoopCounter: 2844
+[Loop End] Current Step: 2, idealLoopCounter: 2846
+[Loop End] Current Step: 2, idealLoopCounter: 2848
+[Loop End] Current Step: 2, idealLoopCounter: 2850
+[Loop End] Current Step: 2, idealLoopCounter: 2852
+[Loop End] Current Step: 2, idealLoopCounter: 2854
+[Loop End] Current Step: 2, idealLoopCounter: 2856
+[Loop End] Current Step: 2, idealLoopCounter: 2858
+[Loop End] Current Step: 2, idealLoopCounter: 2860
+[Loop End] Current Step: 2, idealLoopCounter: 2862
+[Loop End] Current Step: 2, idealLoopCounter: 2864
+[Loop End] Current Step: 2, idealLoopCounter: 2866
+[Loop End] Current Step: 2, idealLoopCounter: 2868
+[Loop End] Current Step: 2, idealLoopCounter: 2870
+[Loop End] Current Step: 2, idealLoopCounter: 2872
+[Loop End] Current Step: 2, idealLoopCounter: 2874
+[Loop End] Current Step: 2, idealLoopCounter: 2876
+[Loop End] Current Step: 2, idealLoopCounter: 2878
+[Loop End] Current Step: 2, idealLoopCounter: 2880
+[Loop End] Current Step: 2, idealLoopCounter: 2882
+[Loop End] Current Step: 2, idealLoopCounter: 2884
+[Loop End] Current Step: 2, idealLoopCounter: 2886
+[Loop End] Current Step: 2, idealLoopCounter: 2888
+[Loop End] Current Step: 2, idealLoopCounter: 2890
+[Loop End] Current Step: 2, idealLoopCounter: 2892
+[Loop End] Current Step: 2, idealLoopCounter: 2894
+[Loop End] Current Step: 2, idealLoopCounter: 2896
+[Loop End] Current Step: 2, idealLoopCounter: 2898
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_1470_2900.dump
+[Loop End] Current Step: 2, idealLoopCounter: 2900
+[Loop End] Current Step: 2, idealLoopCounter: 2902
+[Loop End] Current Step: 2, idealLoopCounter: 2904
+[Loop End] Current Step: 2, idealLoopCounter: 2906
+[Loop End] Current Step: 2, idealLoopCounter: 2908
+[Loop End] Current Step: 2, idealLoopCounter: 2910
+[Loop End] Current Step: 2, idealLoopCounter: 2912
+[Loop End] Current Step: 2, idealLoopCounter: 2914
+[Loop End] Current Step: 2, idealLoopCounter: 2916
+[Loop End] Current Step: 2, idealLoopCounter: 2918
+[Loop End] Current Step: 2, idealLoopCounter: 2920
+[Loop End] Current Step: 2, idealLoopCounter: 2922
+[Loop End] Current Step: 2, idealLoopCounter: 2924
+[Loop End] Current Step: 2, idealLoopCounter: 2926
+[Loop End] Current Step: 2, idealLoopCounter: 2928
+[Loop End] Current Step: 2, idealLoopCounter: 2930
+[Loop End] Current Step: 2, idealLoopCounter: 2932
+[Loop End] Current Step: 2, idealLoopCounter: 2934
+[Loop End] Current Step: 2, idealLoopCounter: 2936
+[Loop End] Current Step: 2, idealLoopCounter: 2938
+[Loop End] Current Step: 2, idealLoopCounter: 2940
+[Loop End] Current Step: 2, idealLoopCounter: 2942
+[Loop End] Current Step: 2, idealLoopCounter: 2944
+[Loop End] Current Step: 2, idealLoopCounter: 2946
+[Loop End] Current Step: 2, idealLoopCounter: 2948
+[Loop End] Current Step: 2, idealLoopCounter: 2950
+[Loop End] Current Step: 2, idealLoopCounter: 2952
+[Loop End] Current Step: 2, idealLoopCounter: 2954
+[Loop End] Current Step: 2, idealLoopCounter: 2956
+[Loop End] Current Step: 2, idealLoopCounter: 2958
+[Loop End] Current Step: 2, idealLoopCounter: 2960
+[Loop End] Current Step: 2, idealLoopCounter: 2962
+[Loop End] Current Step: 2, idealLoopCounter: 2964
+[Loop End] Current Step: 2, idealLoopCounter: 2966
+[Loop End] Current Step: 2, idealLoopCounter: 2968
+[Loop End] Current Step: 2, idealLoopCounter: 2970
+[Loop End] Current Step: 2, idealLoopCounter: 2972
+[Loop End] Current Step: 2, idealLoopCounter: 2974
+[Loop End] Current Step: 2, idealLoopCounter: 2976
+[Loop End] Current Step: 2, idealLoopCounter: 2978
+[Loop End] Current Step: 2, idealLoopCounter: 2980
+[Loop End] Current Step: 1, idealLoopCounter: 2981
+[Loop End] Current Step: 1, idealLoopCounter: 2982
+[Loop End] Current Step: 1, idealLoopCounter: 2983
+[Loop End] Current Step: 1, idealLoopCounter: 2984
+[Loop End] Current Step: 1, idealLoopCounter: 2985
+[Loop End] Current Step: 1, idealLoopCounter: 2986
+[Loop End] Current Step: 1, idealLoopCounter: 2987
+[Loop End] Current Step: 1, idealLoopCounter: 2988
+[Loop End] Current Step: 1, idealLoopCounter: 2989
+[Loop End] Current Step: 1, idealLoopCounter: 2990
+[Loop End] Current Step: 1, idealLoopCounter: 2991
+[Loop End] Current Step: 1, idealLoopCounter: 2992
+[Loop End] Current Step: 1, idealLoopCounter: 2993
+[Loop End] Current Step: 1, idealLoopCounter: 2994
+[Loop End] Current Step: 1, idealLoopCounter: 2995
+[Loop End] Current Step: 1, idealLoopCounter: 2996
+[Loop End] Current Step: 1, idealLoopCounter: 2997
+[Loop End] Current Step: 1, idealLoopCounter: 2998
+[Loop End] Current Step: 1, idealLoopCounter: 2999
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_1530_3000.dump
+[Clipper] Periodic detect_gaps_via_clipper() at step 3000
+[Clipper] Final polygon count: 47
+[Clipper] Detected holes: 48
+Hole #44 area=5.40464 um^2 -> Processed (attachment)
+[Clipper] Selection type=2 mode=1 value=4 => start=293, end=297 (total=591)
+    [Attach] Distance=2.12857 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=2.11586 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=2.11379 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=2.11089 | HOLE_MIN_CELLS=4, actual unique_cells=4
+Hole #45 area=4.18844 um^2 -> Processed (attachment)
+[Clipper] Selection type=2 mode=1 value=4 => start=318, end=322 (total=641)
+    [Attach] Distance=1.85202 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=1.84682 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=1.84584 | HOLE_MIN_CELLS=4, actual unique_cells=4
+    [Attach] Distance=1.84473 | HOLE_MIN_CELLS=4, actual unique_cells=4
+[Clipper] Total new attachments: 8
+[Loop End] Current Step: 1, idealLoopCounter: 3000
+debug::idealLoopCounter % 10 == 0
+Timestep: 3000, TF: 0
+Timestep: 3000
+ TF: 0
+Calling update_Adhesion
+[Loop End] Current Step: 2, idealLoopCounter: 3002
+[Loop End] Current Step: 2, idealLoopCounter: 3004
+[Loop End] Current Step: 2, idealLoopCounter: 3006
+[Loop End] Current Step: 2, idealLoopCounter: 3008
+[Loop End] Current Step: 2, idealLoopCounter: 3010
+[Loop End] Current Step: 2, idealLoopCounter: 3012
+[Loop End] Current Step: 2, idealLoopCounter: 3014
+[Loop End] Current Step: 2, idealLoopCounter: 3016
+[Loop End] Current Step: 2, idealLoopCounter: 3018
+[Loop End] Current Step: 2, idealLoopCounter: 3020
+[Loop End] Current Step: 2, idealLoopCounter: 3022
+[Loop End] Current Step: 2, idealLoopCounter: 3024
+[Loop End] Current Step: 2, idealLoopCounter: 3026
+[Loop End] Current Step: 2, idealLoopCounter: 3028
+[Loop End] Current Step: 2, idealLoopCounter: 3030
+[Loop End] Current Step: 2, idealLoopCounter: 3032
+[Loop End] Current Step: 2, idealLoopCounter: 3034
+[Loop End] Current Step: 2, idealLoopCounter: 3036
+[Loop End] Current Step: 2, idealLoopCounter: 3038
+[Loop End] Current Step: 2, idealLoopCounter: 3040
+[Loop End] Current Step: 2, idealLoopCounter: 3042
+[Loop End] Current Step: 2, idealLoopCounter: 3044
+[Loop End] Current Step: 2, idealLoopCounter: 3046
+[Loop End] Current Step: 2, idealLoopCounter: 3048
+[Loop End] Current Step: 2, idealLoopCounter: 3050
+[Loop End] Current Step: 2, idealLoopCounter: 3052
+[Loop End] Current Step: 2, idealLoopCounter: 3054
+[Loop End] Current Step: 2, idealLoopCounter: 3056
+[Loop End] Current Step: 2, idealLoopCounter: 3058
+[Loop End] Current Step: 2, idealLoopCounter: 3060
+[Loop End] Current Step: 2, idealLoopCounter: 3062
+[Loop End] Current Step: 2, idealLoopCounter: 3064
+[Loop End] Current Step: 2, idealLoopCounter: 3066
+[Loop End] Current Step: 2, idealLoopCounter: 3068
+[Loop End] Current Step: 2, idealLoopCounter: 3070
+[Loop End] Current Step: 2, idealLoopCounter: 3072
+[Loop End] Current Step: 2, idealLoopCounter: 3074
+[Loop End] Current Step: 2, idealLoopCounter: 3076
+[Loop End] Current Step: 2, idealLoopCounter: 3078
+[Loop End] Current Step: 2, idealLoopCounter: 3080
+[Loop End] Current Step: 2, idealLoopCounter: 3082
+[Loop End] Current Step: 2, idealLoopCounter: 3084
+[Loop End] Current Step: 2, idealLoopCounter: 3086
+[Loop End] Current Step: 2, idealLoopCounter: 3088
+[Loop End] Current Step: 2, idealLoopCounter: 3090
+[Loop End] Current Step: 2, idealLoopCounter: 3092
+[Loop End] Current Step: 2, idealLoopCounter: 3094
+[Loop End] Current Step: 2, idealLoopCounter: 3096
+[Loop End] Current Step: 2, idealLoopCounter: 3098
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_1580_3100.dump
+[Loop End] Current Step: 2, idealLoopCounter: 3100
+[Loop End] Current Step: 2, idealLoopCounter: 3102
+[Loop End] Current Step: 2, idealLoopCounter: 3104
+[Loop End] Current Step: 2, idealLoopCounter: 3106
+[Loop End] Current Step: 2, idealLoopCounter: 3108
+[Loop End] Current Step: 2, idealLoopCounter: 3110
+[Loop End] Current Step: 2, idealLoopCounter: 3112
+[Loop End] Current Step: 2, idealLoopCounter: 3114
+[Loop End] Current Step: 2, idealLoopCounter: 3116
+[Loop End] Current Step: 2, idealLoopCounter: 3118
+[Loop End] Current Step: 2, idealLoopCounter: 3120
+[Loop End] Current Step: 2, idealLoopCounter: 3122
+[Loop End] Current Step: 2, idealLoopCounter: 3124
+[Loop End] Current Step: 2, idealLoopCounter: 3126
+[Loop End] Current Step: 2, idealLoopCounter: 3128
+[Loop End] Current Step: 2, idealLoopCounter: 3130
+[Loop End] Current Step: 2, idealLoopCounter: 3132
+[Loop End] Current Step: 2, idealLoopCounter: 3134
+[Loop End] Current Step: 2, idealLoopCounter: 3136
+[Loop End] Current Step: 2, idealLoopCounter: 3138
+[Loop End] Current Step: 2, idealLoopCounter: 3140
+[Loop End] Current Step: 2, idealLoopCounter: 3142
+[Loop End] Current Step: 2, idealLoopCounter: 3144
+[Loop End] Current Step: 2, idealLoopCounter: 3146
+[Loop End] Current Step: 2, idealLoopCounter: 3148
+[Loop End] Current Step: 2, idealLoopCounter: 3150
+[Loop End] Current Step: 2, idealLoopCounter: 3152
+[Loop End] Current Step: 2, idealLoopCounter: 3154
+[Loop End] Current Step: 2, idealLoopCounter: 3156
+[Loop End] Current Step: 2, idealLoopCounter: 3158
+[Loop End] Current Step: 2, idealLoopCounter: 3160
+[Loop End] Current Step: 2, idealLoopCounter: 3162
+[Loop End] Current Step: 2, idealLoopCounter: 3164
+[Loop End] Current Step: 2, idealLoopCounter: 3166
+[Loop End] Current Step: 2, idealLoopCounter: 3168
+[Loop End] Current Step: 2, idealLoopCounter: 3170
+[Loop End] Current Step: 2, idealLoopCounter: 3172
+[Loop End] Current Step: 2, idealLoopCounter: 3174
+[Loop End] Current Step: 2, idealLoopCounter: 3176
+[Loop End] Current Step: 2, idealLoopCounter: 3178
+[Loop End] Current Step: 2, idealLoopCounter: 3180
+[Loop End] Current Step: 2, idealLoopCounter: 3182
+[Loop End] Current Step: 2, idealLoopCounter: 3184
+[Loop End] Current Step: 2, idealLoopCounter: 3186
+[Loop End] Current Step: 2, idealLoopCounter: 3188
+[Loop End] Current Step: 2, idealLoopCounter: 3190
+[Loop End] Current Step: 2, idealLoopCounter: 3192
+[Loop End] Current Step: 2, idealLoopCounter: 3194
+[Loop End] Current Step: 2, idealLoopCounter: 3196
+[Loop End] Current Step: 2, idealLoopCounter: 3198
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_1630_3200.dump
+[Loop End] Current Step: 2, idealLoopCounter: 3200
+[Loop End] Current Step: 2, idealLoopCounter: 3202
+[Loop End] Current Step: 2, idealLoopCounter: 3204
+[Loop End] Current Step: 2, idealLoopCounter: 3206
+[Loop End] Current Step: 2, idealLoopCounter: 3208
+[Loop End] Current Step: 2, idealLoopCounter: 3210
+[Loop End] Current Step: 2, idealLoopCounter: 3212
+[Loop End] Current Step: 2, idealLoopCounter: 3214
+[Loop End] Current Step: 2, idealLoopCounter: 3216
+[Loop End] Current Step: 2, idealLoopCounter: 3218
+[Loop End] Current Step: 2, idealLoopCounter: 3220
+[Loop End] Current Step: 2, idealLoopCounter: 3222
+[Loop End] Current Step: 2, idealLoopCounter: 3224
+[Loop End] Current Step: 2, idealLoopCounter: 3226
+[Loop End] Current Step: 2, idealLoopCounter: 3228
+[Loop End] Current Step: 2, idealLoopCounter: 3230
+[Loop End] Current Step: 2, idealLoopCounter: 3232
+[Loop End] Current Step: 2, idealLoopCounter: 3234
+[Loop End] Current Step: 2, idealLoopCounter: 3236
+[Loop End] Current Step: 2, idealLoopCounter: 3238
+[Loop End] Current Step: 2, idealLoopCounter: 3240
+[Loop End] Current Step: 2, idealLoopCounter: 3242
+[Loop End] Current Step: 2, idealLoopCounter: 3244
+[Loop End] Current Step: 2, idealLoopCounter: 3246
+[Loop End] Current Step: 2, idealLoopCounter: 3248
+[Loop End] Current Step: 2, idealLoopCounter: 3250
+[Loop End] Current Step: 2, idealLoopCounter: 3252
+[Loop End] Current Step: 2, idealLoopCounter: 3254
+[Loop End] Current Step: 2, idealLoopCounter: 3256
+[Loop End] Current Step: 2, idealLoopCounter: 3258
+[Loop End] Current Step: 2, idealLoopCounter: 3260
+[Loop End] Current Step: 2, idealLoopCounter: 3262
+[Loop End] Current Step: 2, idealLoopCounter: 3264
+[Loop End] Current Step: 2, idealLoopCounter: 3266
+[Loop End] Current Step: 2, idealLoopCounter: 3268
+[Loop End] Current Step: 2, idealLoopCounter: 3270
+[Loop End] Current Step: 2, idealLoopCounter: 3272
+[Loop End] Current Step: 2, idealLoopCounter: 3274
+[Loop End] Current Step: 2, idealLoopCounter: 3276
+[Loop End] Current Step: 2, idealLoopCounter: 3278
+[Loop End] Current Step: 2, idealLoopCounter: 3280
+[Loop End] Current Step: 2, idealLoopCounter: 3282
+[Loop End] Current Step: 2, idealLoopCounter: 3284
+[Loop End] Current Step: 2, idealLoopCounter: 3286
+[Loop End] Current Step: 2, idealLoopCounter: 3288
+[Loop End] Current Step: 2, idealLoopCounter: 3290
+[Loop End] Current Step: 2, idealLoopCounter: 3292
+[Loop End] Current Step: 2, idealLoopCounter: 3294
+[Loop End] Current Step: 2, idealLoopCounter: 3296
+[Loop End] Current Step: 2, idealLoopCounter: 3298
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_1680_3300.dump
+[Loop End] Current Step: 2, idealLoopCounter: 3300
+[Loop End] Current Step: 2, idealLoopCounter: 3302
+[Loop End] Current Step: 2, idealLoopCounter: 3304
+[Loop End] Current Step: 2, idealLoopCounter: 3306
+[Loop End] Current Step: 2, idealLoopCounter: 3308
+[Loop End] Current Step: 2, idealLoopCounter: 3310
+[Loop End] Current Step: 2, idealLoopCounter: 3312
+[Loop End] Current Step: 2, idealLoopCounter: 3314
+[Loop End] Current Step: 2, idealLoopCounter: 3316
+[Loop End] Current Step: 2, idealLoopCounter: 3318
+[Loop End] Current Step: 2, idealLoopCounter: 3320
+[Loop End] Current Step: 2, idealLoopCounter: 3322
+[Loop End] Current Step: 2, idealLoopCounter: 3324
+[Loop End] Current Step: 2, idealLoopCounter: 3326
+[Loop End] Current Step: 2, idealLoopCounter: 3328
+[Loop End] Current Step: 2, idealLoopCounter: 3330
+[Loop End] Current Step: 2, idealLoopCounter: 3332
+[Loop End] Current Step: 2, idealLoopCounter: 3334
+[Loop End] Current Step: 2, idealLoopCounter: 3336
+[Loop End] Current Step: 2, idealLoopCounter: 3338
+[Loop End] Current Step: 2, idealLoopCounter: 3340
+[Loop End] Current Step: 2, idealLoopCounter: 3342
+[Loop End] Current Step: 2, idealLoopCounter: 3344
+[Loop End] Current Step: 2, idealLoopCounter: 3346
+[Loop End] Current Step: 2, idealLoopCounter: 3348
+[Loop End] Current Step: 2, idealLoopCounter: 3350
+[Loop End] Current Step: 2, idealLoopCounter: 3352
+[Loop End] Current Step: 2, idealLoopCounter: 3354
+[Loop End] Current Step: 2, idealLoopCounter: 3356
+[Loop End] Current Step: 2, idealLoopCounter: 3358
+[Loop End] Current Step: 2, idealLoopCounter: 3360
+[Loop End] Current Step: 2, idealLoopCounter: 3362
+[Loop End] Current Step: 2, idealLoopCounter: 3364
+[Loop End] Current Step: 2, idealLoopCounter: 3366
+[Loop End] Current Step: 2, idealLoopCounter: 3368
+[Loop End] Current Step: 2, idealLoopCounter: 3370
+[Loop End] Current Step: 2, idealLoopCounter: 3372
+[Loop End] Current Step: 2, idealLoopCounter: 3374
+[Loop End] Current Step: 2, idealLoopCounter: 3376
+[Loop End] Current Step: 2, idealLoopCounter: 3378
+[Loop End] Current Step: 2, idealLoopCounter: 3380
+[Loop End] Current Step: 2, idealLoopCounter: 3382
+[Loop End] Current Step: 2, idealLoopCounter: 3384
+[Loop End] Current Step: 2, idealLoopCounter: 3386
+[Loop End] Current Step: 2, idealLoopCounter: 3388
+[Loop End] Current Step: 2, idealLoopCounter: 3390
+[Loop End] Current Step: 2, idealLoopCounter: 3392
+[Loop End] Current Step: 2, idealLoopCounter: 3394
+[Loop End] Current Step: 2, idealLoopCounter: 3396
+[Loop End] Current Step: 2, idealLoopCounter: 3398
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_1730_3400.dump
+[Loop End] Current Step: 2, idealLoopCounter: 3400
+[Loop End] Current Step: 2, idealLoopCounter: 3402
+[Loop End] Current Step: 2, idealLoopCounter: 3404
+[Loop End] Current Step: 2, idealLoopCounter: 3406
+[Loop End] Current Step: 2, idealLoopCounter: 3408
+[Loop End] Current Step: 2, idealLoopCounter: 3410
+[Loop End] Current Step: 2, idealLoopCounter: 3412
+[Loop End] Current Step: 2, idealLoopCounter: 3414
+[Loop End] Current Step: 2, idealLoopCounter: 3416
+[Loop End] Current Step: 2, idealLoopCounter: 3418
+[Loop End] Current Step: 2, idealLoopCounter: 3420
+[Loop End] Current Step: 2, idealLoopCounter: 3422
+[Loop End] Current Step: 2, idealLoopCounter: 3424
+[Loop End] Current Step: 2, idealLoopCounter: 3426
+[Loop End] Current Step: 2, idealLoopCounter: 3428
+[Loop End] Current Step: 2, idealLoopCounter: 3430
+[Loop End] Current Step: 2, idealLoopCounter: 3432
+[Loop End] Current Step: 2, idealLoopCounter: 3434
+[Loop End] Current Step: 2, idealLoopCounter: 3436
+[Loop End] Current Step: 2, idealLoopCounter: 3438
+[Loop End] Current Step: 2, idealLoopCounter: 3440
+[Loop End] Current Step: 2, idealLoopCounter: 3442
+[Loop End] Current Step: 2, idealLoopCounter: 3444
+[Loop End] Current Step: 2, idealLoopCounter: 3446
+[Loop End] Current Step: 2, idealLoopCounter: 3448
+[Loop End] Current Step: 2, idealLoopCounter: 3450
+[Loop End] Current Step: 2, idealLoopCounter: 3452
+[Loop End] Current Step: 2, idealLoopCounter: 3454
+[Loop End] Current Step: 2, idealLoopCounter: 3456
+[Loop End] Current Step: 2, idealLoopCounter: 3458
+[Loop End] Current Step: 2, idealLoopCounter: 3460
+[Loop End] Current Step: 2, idealLoopCounter: 3462
+[Loop End] Current Step: 2, idealLoopCounter: 3464
+[Loop End] Current Step: 2, idealLoopCounter: 3466
+[Loop End] Current Step: 2, idealLoopCounter: 3468
+[Loop End] Current Step: 2, idealLoopCounter: 3470
+[Loop End] Current Step: 2, idealLoopCounter: 3472
+[Loop End] Current Step: 2, idealLoopCounter: 3474
+[Loop End] Current Step: 2, idealLoopCounter: 3476
+[Loop End] Current Step: 2, idealLoopCounter: 3478
+[Loop End] Current Step: 2, idealLoopCounter: 3480
+[Loop End] Current Step: 2, idealLoopCounter: 3482
+[Loop End] Current Step: 2, idealLoopCounter: 3484
+[Loop End] Current Step: 2, idealLoopCounter: 3486
+[Loop End] Current Step: 2, idealLoopCounter: 3488
+[Loop End] Current Step: 2, idealLoopCounter: 3490
+[Loop End] Current Step: 2, idealLoopCounter: 3492
+[Loop End] Current Step: 2, idealLoopCounter: 3494
+[Loop End] Current Step: 2, idealLoopCounter: 3496
+[Loop End] Current Step: 2, idealLoopCounter: 3498
+[Debug] print_VTK_File called. cytoplasm=1
+[Debug] print_VTK_File, 1)start
+[DEBUG]tissuecpp::print_VTK_File end cytoplasm=1
+[Snapshot] dumping to DataOutput/anim/snapshot_1780_3500.dump
+[Loop End] Current Step: 2, idealLoopCounter: 3500
+Time-limit reached (300651 ms). Stopping simulation.
+Main simulation loop ended
+actualSubloopCount (coarse loop count): 1780
+FinalTime [ms]: 300651
+idealLoopCounter (last coarse time): 3500
+actualSubloopCount: 1780
+Terminal Time: 600000
+MAX_TIME_MS: 300000
+VTKstepwidth(NUM_STEPS_PER_FRAME): 100
+SKIPSTEP: 2

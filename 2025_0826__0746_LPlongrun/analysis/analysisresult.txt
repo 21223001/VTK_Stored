@@ -1,0 +1,1 @@
+Welch two-sample t-test (compare cell_metrics_actual510_ideal1000.txt [n=50] vs cell_metrics_actual306000_ideal600000.txt [n=50]): t = -1.75, p = 0.08534
