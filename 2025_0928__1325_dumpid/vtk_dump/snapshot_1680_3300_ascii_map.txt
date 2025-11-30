@@ -1,0 +1,57 @@
+=== CK ===
+                                                                         
+0       0       0       0       0       0      0       0       0       0 
+                                                                         
+                                                                         
+                    0               0              0                     
+   0        0               0               0              0        0    
+                                                                         
+                                                                         
+        6       7       8       8       8       8      7       6         
+                                                                         
+                                                                         
+                                                                         
+            6       7       8       9       8      7       6             
+                                                                         
+                                                                         
+                                                                         
+                7       7       8       8      7       7                 
+                                                                         
+                                                                         
+                                                                         
+                   6       7        7       7      6                     
+                                                                         
+                                                                         
+                    6       6       6       6      6                     
+field=ck reducer=max grid=73x24 clip=auto palette=default
+stats: min=0.000 mean=50.907 max=107.854 n=50
+bbox: [-36.138,35.983]x[-47.537,0.324]
+
+=== WUS ===
+                                                                         
+0       1       3       4       6       6      4       3       1       0 
+                                                                         
+                                                                         
+                    5               8              5                     
+   1        3               7               7              3        1    
+                                                                         
+                                                                         
+        2       4       7       9       9       7      4       2         
+                                                                         
+                                                                         
+                                                                         
+            3       5       7       8       7      5       3             
+                                                                         
+                                                                         
+                                                                         
+                3       4       5       5      4       3                 
+                                                                         
+                                                                         
+                                                                         
+                   2       3        3       3      2                     
+                                                                         
+                                                                         
+                    0       1       1       1      0                     
+field=wus reducer=max grid=73x24 clip=auto palette=default
+stats: min=46.109 mean=60.183 max=79.403 n=50
+bbox: [-36.138,35.983]x[-47.537,0.324]
