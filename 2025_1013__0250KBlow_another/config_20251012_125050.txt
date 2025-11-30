@@ -1,0 +1,74 @@
+{
+  "parameters" : [
+    { "flag":"WR"        , "att":"main", "type": "double", "value" : 1.0     , "ideal" : 1.0          , "comment":"WUS半径収縮係数" },
+    { "flag":"CKR"       , "att":"main", "type": "double", "value" : 1.0     , "ideal" : 1.0          , "comment":"CK半径収縮係数" },
+    { "flag":"CK_L1"     , "att":"main", "type": "bool"  , "value" : 1       , "ideal" : 1            , "comment":"L1へのCK供給を禁止するか (1: 禁止, 0: 許可)" },
+    { "flag":"CK_L2"     , "att":"main", "type": "bool"  , "value" : 1       , "ideal" : 1            , "comment":"L2へのCK供給を禁止するか (1: 禁止, 0: 許可)" },
+    { "flag":"div"       , "att":"main", "type": "int"   , "value" : 5       , "ideal" : 5            , "comment":"分裂メカニズム //1-Errera, 2-Chem, 3-Mech, 4-Merged, 5-Layer-Specific" },
+    { "flag":"TC"        , "att":"main", "type": "int"   , "value" : 4       , "ideal" : 4            , "comment":"引張計算のタイプ" },
+    { "flag":"OOP_flag"  , "att":"main", "type": "bool"  , "value" : 1       , "ideal" : 1            , "comment":"成長を 3D (Surface normal 成分) にするか (1: 有効, 0: 無効)" },
+    { "flag":"Unif"      , "att":"main", "type": "bool"  , "value" : 1       , "ideal" : 1            , "comment":"均一なOOP分布を使用するか (1: 有効, 0: 無効)" },
+    { "flag":"OOP_P"     , "att":"main", "type": "double", "value" : 0.3     , "ideal" : 0.3          , "comment":"OOPの確率" } ,
+    { "flag":"Chem_GD"   , "att":"main", "type": "bool"  , "value" : 1       , "ideal" : 1            , "comment":"(WUS/CK など)の濃度勾配ベクトルを考慮。成長方向が勾配によりバイアスされる (1: 有効, 0: 無効)" },
+    { "flag":"L1_Anti"   , "att":"main", "type": "bool"  , "value" : 1       , "ideal" : 1            , "comment":"L1反輪裂分裂を強制するか (1: 有効, 0: 無効)" },
+    { "flag":"PRINT"     , "att":"main", "type": "int"   , "value" : 1       , "ideal" : 1            , "comment":"VTKファイルを出力するか (1: 出力, 0: 出力しない)" },
+    { "flag":"WUS_loc"   , "att":"main", "type": "int"   , "value" : 0       , "ideal" : 0            , "comment":"Weird WUSの値" },
+    { "flag":"WUS_change", "att":"main", "type": "bool"  , "value" : 0       , "ideal" : 0            , "comment":"WUSレベルの変更を有効にするか (1: 有効, 0: 無効)" },
+    { "flag":"BP"        , "att":"main", "type": "bool"  , "value" : 1       , "ideal" : 1            , "comment":"境界細胞(周縁部)に引張力を加える機能の有効化 (1: 有効, 0: 無効)" },
+    { "flag":"BPT"       , "att":"main", "type": "int"   , "value" : 2       , "ideal" : 2            , "comment":"境界引張のタイプ" },
+    { "flag":"BFM"       , "att":"main", "type": "double", "value" : 200     , "ideal" : 200          , "comment":"境界力の大きさ" },
+
+
+    { "flag":"THETA"     , "att":"buff", "type": "double", "value" : 2.2    , "ideal" : 0.78539816339, "comment":"Theta ABCの値 (0.785 == 45pai)" },
+    { "flag":"BUFFER_BOO", "att":"buff", "type": "bool"  , "value" : 1       , "ideal" : 1            , "comment":"Theta超過L1細胞をbufferセルとして扱うか (1: 有効, 0: 無効)" },
+    { "flag":"THETA_BOU" , "att":"buff", "type": "double", "value" : 1.8     , "ideal" : 0.78539816339, "comment":"境界力解除用のTheta" },
+    { "flag":"THETA_ENT" , "att":"buff", "type": "double", "value" : 2.25     , "ideal" : 2.5          , "comment":"buffer判定の進入閾値" },
+    { "flag":"THETA_EXI" , "att":"buff", "type": "double", "value" : 1.5     , "ideal" : 2.5          , "comment":"buffer判定の退出閾値" },
+
+    { "flag":"BOU_R_N"   , "att":"buff", "type":"bool"  , "value" : 1        , "ideal" : 1            , "comment":"境界判定において非接着ノードのみを候補にする.value:1 で有効化、0 で無効化。" },
+    { "flag":"BOU_S_F"   , "att":"buff", "type":"double", "value" : 1.2      , "ideal" : 1.0          , "comment":"境界直線の傾きを補正する係数 (1.0=無補正)" },
+    { "flag":"BOU_OFF"   , "att":"buff", "type":"double", "value" : 0.0      , "ideal" : 0.0          , "comment":"境界判定を緩和/強化する距離オフセット (μm)" },
+    { "flag":"BOU_A_D"   , "att":"buff", "type":"bool"  ,  "value" : 1       , "ideal" : 1            , "comment":"DELTA を自動算出するか (1: 有効, 0: 無効)" },
+
+
+    { "flag":"KBST"      , "att":"phys", "type": "double", "value" : 12.5    , "ideal" : 13.5         , "comment":"細胞壁の曲げ剛性(bending stiffness)を示すパラメータ。値が大きいほど曲げに対する抵抗が強い。" },
+    { "flag":"KBLS"      , "att":"phys", "type": "double", "value" : 4.1  , "ideal" : 4.5433       , "comment":"細胞壁の曲げ剛性(bending stiffness)を示すパラメータ。値が大きいほど曲げに対する抵抗が強い。" },
+    { "flag":"KBUN"      , "att":"phys", "type": "double", "value" : 10.5      , "ideal" : 12           , "comment":"細胞壁の曲げ剛性(bending stiffness)を示すパラメータ。値が大きいほど曲げに対する抵抗が強い。" },
+    { "flag":"KLST"      , "att":"phys", "type": "double", "value" : 560.327 , "ideal" : 560.3272     , "comment":"線形バネ定数(細胞膜などをバネでモデル化したときの係数 値が大きいと伸縮に対する抵抗が強くなる。" },
+    { "flag":"KLLS"      , "att":"phys", "type": "double", "value" : 280.164 , "ideal" : 280.1636     , "comment":"線形バネ定数(細胞膜などをバネでモデル化したときの係数 値が大きいと伸縮に対する抵抗が強くなる。" },
+    { "flag":"KADH"      , "att":"phys", "type": "double", "value" : 12      , "ideal" : 12           , "comment":"「接着(Adhesion)」のバネ定数。状況に応じて異なる接着剛性を使い分けることが可能。単位はミクロニュートン/μm。" },
+    { "flag":"KADHL1"    , "att":"phys", "type": "double", "value" : 12      , "ideal" : 12           , "comment":"「接着(Adhesion)」のバネ定数。状況に応じて異なる接着剛性を使い分けることが可能。単位はミクロニュートン/μm。" },
+    { "flag":"KADHL2"    , "att":"phys", "type": "double", "value" : 12      , "ideal" : 12           , "comment":"「接着(Adhesion)」のバネ定数。状況に応じて異なる接着剛性を使い分けることが可能。単位はミクロニュートン/μm。" },
+    { "flag":"KADHDV"    , "att":"phys", "type": "double", "value" : 12      , "ideal" : 12           , "comment":"「接着(Adhesion)」のバネ定数。状況に応じて異なる接着剛性を使い分けることが可能。単位はミクロニュートン/μm。" },
+    { "flag":"AFDT"      , "att":"main", "type": "double", "value" : 0       , "ideal" : 0            , "comment":"AREA_FORCE_DIV_THRESHOLD" },
+
+    { "flag":"Time_max"  , "att":"main", "type": "int"   , "value" : 800000  , "ideal" : 362500       , "comment":"Terminal Timeの値(standart:362500)" },
+    { "flag":"VSWD"      , "att":"main", "type": "int"   , "value" : 5000    , "ideal" : 10           , "comment":"フレームごとのstep数(刻み数), =SKIPSTEPで同一  old:NUM_STEPS_PER_FRAME(VTK_STEP_WIDTH)" },
+    { "flag":"RDNF"      , "att":"main", "type": "int"   , "value" : 10      , "ideal" : 10           , "comment":"RECENT_DIV_NUM_FRAMES, 最近分裂した細胞の履歴を何フレーム分保持するか " },
+    { "flag":"SKSP"      , "att":"main", "type": "int"   , "value" : 2       , "ideal" : 5            , "comment":"SkipStep ループコースニングの重み" },
+    { "flag":"SKSPL"     , "att":"main", "type": "int"   , "value" : 1       , "ideal" : 2            , "comment":"SkipStep ループコースニングの重み" },
+    { "flag":"SKSPH"     , "att":"main", "type": "int"   , "value" : 10      , "ideal" : 10           , "comment":"SkipStep ループコースニングの重み" },
+
+    { "flag":"ULDT"      , "att":"main", "type": "double", "value" : 0.0003  , "ideal" : 0.0003       , "comment":"const dt をUNLOCKにして，externで規定．maincppから読む" },
+    { "flag":"MXTM"      , "att":"main", "type": "string", "value" : "14h0m0s", "ideal" : "1h3m4s"  , "comment":"最大経過時間(ms) 2時間(7200000)/26000回転" },
+
+    { "flag":"INCN"      , "att":"phys", "type": "int"   , "value" : 15      , "ideal" : 15           , "comment":"INIT_NUM_CYT_NODES 各セルが初期に持つ「内部(細胞質)ノード」の数を示す。" },
+    { "flag":"INWN"      , "att":"phys", "type": "int"   , "value" : 100     , "ideal" : 100          , "comment":"INIT_NUM_CYT_NODES 各セルが初期に持つ「内部(細胞質)ノード」の数を示す。" },
+    { "flag":"MRSCTF"    , "att":"node", "type": "double", "value" : 20      , "ideal" : 20           , "comment":"MORSE_CUTOFF " },
+    { "flag":"LMAX"      , "att":"node", "type": "double", "value" : 1.5     , "ideal" : 0            , "comment":"Tanh補正: 1ループあたりの「物理的に妥当な最大移動距離」(例：膜自然長の1.5倍) " },
+    { "flag":"HPUSE"     , "att":"poly", "type": "bool"  , "value" : 0       , "ideal" : 1            , "comment":"穴検知・塞ぎ処理を実行するか (1: 実行, 0: スキップ)" },
+
+    { "flag":"SAM"       , "att":"poly", "type": "double", "value" : 100     , "ideal" : 100          , "comment":"SAMPLES_PER_POLYGON : 境界分割点数" },
+    { "flag":"CLI"       , "att":"poly", "type": "double", "value" : 1000    , "ideal" : 1000         , "comment":"CLIPPER_SCALE : Clipper用の座標スケール(μm→整数)" },
+    { "flag":"DIS"       , "att":"poly", "type": "double", "value" : 1.4     , "ideal" : 1.4          , "comment":"DISTANCE_THRESHOLD : サンプリング点やノード間の近接判定距離(μm)" },
+    { "flag":"BUF"       , "att":"poly", "type": "double", "value" : 0.6     , "ideal" : 0.6          , "comment":"BUFFER_SIZE : ポリゴン膨張/縮小距離(μm)" },
+    { "flag":"HAMIN"     , "att":"poly", "type": "double", "value" : 4.0     , "ideal" : 4.0          , "comment":"HOLE_AREA_MIN : 面積が小さい穴を無視する閾値(μm²)" },
+    { "flag":"HAMAX"     , "att":"poly", "type": "double", "value" : 8.0     , "ideal" : 4.0          , "comment":"HOLE_AREA_MAX : 面積が大きい穴を無視する閾値(μm²)" },
+    { "flag":"HST"       , "att":"poly", "type": "double", "value" : 2       , "ideal" : 2            , "comment":"HOLE_SECTION_TYPE :  0/1/2  TOP/BOTTOM/MIDDLE" },
+    { "flag":"HSM"       , "att":"poly", "type": "double", "value" : 1       , "ideal" : 1            , "comment":"HOLE_SECTION_MODE : 0/1 FRACTION(n%) / COUNT(n件)" },
+    { "flag":"HSV"       , "att":"poly", "type": "double", "value" : 4       , "ideal" : 10           , "comment":"HOLE_SECTION_VALUE : n value" },
+    { "flag":"HMC"       , "att":"poly", "type": "int"   , "value" : 4       , "ideal" : 4            , "comment":"HOLE_MIN_CELLS : この数以上の異なる細胞が関与している穴のみ処理" },
+    { "flag":"ELFH"      , "att":"poly", "type": "bool"  , "value" : 1       , "ideal" : 0            , "comment":"L1層をhole_patchから除外するか (1: 除外, 0: 含める)" }
+
+  ]
+}
